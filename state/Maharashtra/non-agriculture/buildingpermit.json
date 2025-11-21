@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is a Building Permit required before construction?",
+      "answer": "It legally authorizes construction and ensures the building follows zoning laws, structural norms, and development rules set by municipal authorities."
+    },
+    {
+      "question": "Does the Building Permit confirm project land ownership?",
+      "answer": "No. It approves construction plans. Ownership must be confirmed through Sale Deed, Property Card, and title documents."
+    },
+    {
+      "question": "How is a Building Permit different from Occupancy Certificate (OC)?",
+      "answer": "A Building Permit allows construction to start, while OC certifies the building is safe and approved for occupation after completion."
+    },
+    {
+      "question": "Does the permit indicate FSI and building height approvals?",
+      "answer": "Yes. Permit orders usually include approved FSI, setbacks, height limits, plot area, and compliance conditions."
+    },
+    {
+      "question": "Is a Building Permit needed for renovation or extension?",
+      "answer": "Yes. Major structural changes, additional floors, or usage conversions require revised permits."
+    },
+    {
+      "question": "Can a project proceed without a Building Permit?",
+      "answer": "No. Unauthorized construction may lead to penalties, demolition, or denial of OC and utilities."
+    },
+    {
+      "question": "Does the permit validate environmental or fire approvals?",
+      "answer": "Permit issuance depends on compliance, but detailed approvals may require separate documents from respective authorities."
+    },
+    {
+      "question": "Does the permit apply to redevelopment projects in Maharashtra?",
+      "answer": "Yes. Redevelopment, society reconstruction, and slum rehabilitation projects require fresh or revised permits."
+    },
+    {
+      "question": "Does a Building Permit ensure RERA compliance?",
+      "answer": "No. RERA is registration-based. Permit only approves construction based on plans and regulations."
+    },
+    {
+      "question": "Is permit data from JaaGa authentic?",
+      "answer": "Yes. All details are sourced directly from municipal and planning authority systems without modification."
+    }
+  ]
+}

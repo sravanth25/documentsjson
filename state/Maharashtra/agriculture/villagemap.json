@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a village map show in Maharashtra?",
+      "answer": "It shows the overall layout of the village including survey numbers, main boundaries, major roads, public land, and physical landmarks."
+    },
+    {
+      "question": "How is a village map different from BhuNaksha?",
+      "answer": "Village maps show regional layout at survey-level, while BhuNaksha provides parcel-level digital mapping for individual survey numbers."
+    },
+    {
+      "question": "Can a village map be used for legal land measurement?",
+      "answer": "No. Village maps offer high-level layout. Exact measurements require FMB or detailed survey maps."
+    },
+    {
+      "question": "Is a village map useful for locating agricultural land?",
+      "answer": "Yes. It helps identify the land's position within the village before checking survey boundaries."
+    },
+    {
+      "question": "Does the village map show ownership information?",
+      "answer": "No. Ownership must be checked through 7/12, 8A, Sale Deed, and mutation records."
+    },
+    {
+      "question": "Does the map show roads, water bodies, and public land?",
+      "answer": "Yes. Village maps often include roads, ponds, canal routes, and public reservations when available."
+    },
+    {
+      "question": "Can a village map confirm whether land is agricultural or NA?",
+      "answer": "It provides location context but classification must be verified through revenue or planning records."
+    },
+    {
+      "question": "Does the village map help with land disputes?",
+      "answer": "It helps understand location at a macro level, but boundary disputes require official resurvey or FMB."
+    },
+    {
+      "question": "Is village map required for mutation or sub-division?",
+      "answer": "It is supportive for reference, but detailed maps are required during subdivision processes."
+    },
+    {
+      "question": "Is village map data from JaaGa authentic?",
+      "answer": "Yes. All maps are sourced directly from official Maharashtra land and survey systems without modification."
+    }
+  ]
+}

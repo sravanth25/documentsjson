@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What information does the 7/12 Extract provide?",
+      "answer": "It includes ownership, cultivator details, land type, crop information, tenancy status, area, and revenue tax entries for agricultural land."
+    },
+    {
+      "question": "Is 7/12 proof of ownership?",
+      "answer": "It reflects recorded ownership in revenue records, but legal ownership must be verified through registered Sale Deeds."
+    },
+    {
+      "question": "How is 7/12 different from the 8A Extract?",
+      "answer": "7/12 shows usage, crops, and cultivation details, while 8A focuses on tax assessments and account-level entries."
+    },
+    {
+      "question": "Is 7/12 required for agricultural land loans?",
+      "answer": "Yes. Banks typically require 7/12 along with 8A, mutation records, and sale deeds to verify agricultural land ownership and usage."
+    },
+    {
+      "question": "Does 7/12 show if land is irrigated or dry?",
+      "answer": "Yes. Irrigation type and water source may be mentioned if recorded in revenue systems."
+    },
+    {
+      "question": "Can 7/12 confirm whether land is government or private?",
+      "answer": "It reflects ownership entries, but restricted classifications like forest or assigned land need separate verification."
+    },
+    {
+      "question": "Does the 7/12 Extract show encumbrances or mortgages?",
+      "answer": "Not always. Registered mortgages appear in EC; revenue loans may appear in remarks."
+    },
+    {
+      "question": "Does 7/12 reflect subdivision or plot splits?",
+      "answer": "Yes, if subdivisions are recorded. If unrecorded, ground survey or mutation updates may be required."
+    },
+    {
+      "question": "Is 7/12 required for property sale or transfer?",
+      "answer": "Yes. It verifies agricultural status and revenue entries before transfer or mutation."
+    },
+    {
+      "question": "Is the 7/12 Extract from JaaGa authentic?",
+      "answer": "Yes. All data is sourced directly from Maharashtra land and revenue systems without modification."
+    }
+  ]
+}

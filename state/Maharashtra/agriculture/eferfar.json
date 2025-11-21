@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does e-Ferfar show in Maharashtra?",
+      "answer": "It shows updates to land ownership entries, referencing how and why ownership changed based on registered deeds, succession, or orders."
+    },
+    {
+      "question": "Is mutation mandatory after buying land?",
+      "answer": "Yes. Without mutation, revenue records may still reflect the previous owner even after a registered sale deed."
+    },
+    {
+      "question": "Does e-Ferfar prove legal ownership?",
+      "answer": "It reflects ownership in revenue records, but legal ownership must be confirmed through registered Sale Deeds and title documents."
+    },
+    {
+      "question": "How is mutation different from registration?",
+      "answer": "Registration records the sale legally; mutation updates revenue and tax records to reflect new ownership."
+    },
+    {
+      "question": "Does mutation affect property tax?",
+      "answer": "Yes. Revenue and municipal tax assessments are updated after mutation reflects the new owner."
+    },
+    {
+      "question": "Does e-Ferfar show pending mutation requests?",
+      "answer": "Yes. It may show mutation proposals awaiting verification or approval by revenue authorities."
+    },
+    {
+      "question": "Does mutation confirm property is dispute-free?",
+      "answer": "No. It records change of ownership, but disputes must be verified through legal checks and court records."
+    },
+    {
+      "question": "Is e-Ferfar needed for taking a land loan?",
+      "answer": "Yes. Banks often require updated mutation records to validate that the borrower is the recorded owner."
+    },
+    {
+      "question": "Can mutation happen automatically after registration?",
+      "answer": "Some areas support auto-mutation based on integration, but many entries still require manual processing and verification."
+    },
+    {
+      "question": "Is the e-Ferfar record from JaaGa authentic?",
+      "answer": "Yes. All mutation records are sourced directly from Maharashtra’s official revenue systems without modification."
+    }
+  ]
+}

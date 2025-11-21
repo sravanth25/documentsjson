@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is a RERA Certificate important in Maharashtra?",
+      "answer": "It confirms that the project is legally registered with MahaRERA and monitored for compliance, reducing risks of fraud, delay, or unauthorized construction."
+    },
+    {
+      "question": "What details do I need to fetch a RERA Certificate through JaaGa?",
+      "answer": "You can search using the project name. Promoter name or registration number may be used for additional accuracy."
+    },
+    {
+      "question": "Does a RERA Certificate confirm project approvals?",
+      "answer": "It reflects approvals and compliance submitted to MahaRERA, but sanctioned plans and municipal permissions may require separate documents."
+    },
+    {
+      "question": "Is a project without RERA registration illegal?",
+      "answer": "Large and commercial projects must register. Projects claiming exemption should still be verified to avoid regulatory risk."
+    },
+    {
+      "question": "Does the certificate confirm possession or completion?",
+      "answer": "No. Completion and occupancy status require Completion Certificate (CC) or Occupancy Certificate (OC)."
+    },
+    {
+      "question": "Is RERA registration needed for home loans in Maharashtra?",
+      "answer": "Yes. Banks generally prefer lending to MahaRERA-registered projects for risk and compliance validation."
+    },
+    {
+      "question": "Can a project have both RERA and OC?",
+      "answer": "Yes. RERA ensures regulatory compliance during development; OC certifies safe and approved occupancy after completion."
+    },
+    {
+      "question": "Does RERA certification prevent legal disputes?",
+      "answer": "It improves transparency but disputes related to land title, litigation, or encroachments must be checked separately."
+    },
+    {
+      "question": "Does RERA cover redevelopment and society projects?",
+      "answer": "Many redevelopment projects fall under MahaRERA depending on scope and regulations. Verification is recommended."
+    },
+    {
+      "question": "Is MahaRERA data from JaaGa authentic?",
+      "answer": "Yes. All project details are sourced directly from MahaRERA’s official records without modification."
+    }
+  ]
+}

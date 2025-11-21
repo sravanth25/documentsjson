@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is an Occupancy Certificate required in Maharashtra?",
+      "answer": "It confirms that the building is legally approved, structurally safe, and compliant with municipal norms, making it lawful for residents to occupy."
+    },
+    {
+      "question": "Is OC mandatory for resale or registration of property?",
+      "answer": "While transactions may still occur, absence of OC can lead to legal risks, utility issues, and loan rejections."
+    },
+    {
+      "question": "How is OC different from Completion Certificate (CC)?",
+      "answer": "CC confirms construction is completed; OC confirms the building is safe and approved for occupation after all compliance checks."
+    },
+    {
+      "question": "Does an OC guarantee that the project is RERA approved?",
+      "answer": "No. RERA registration is separate. OC confirms completion compliance, while RERA ensures project registration and transparency."
+    },
+    {
+      "question": "Can a building without OC face penalties?",
+      "answer": "Yes. Occupying or selling units without OC may invite legal action, restricted utilities, or demolition in severe violations."
+    },
+    {
+      "question": "Is OC needed to apply for bank loans or home registration?",
+      "answer": "Banks and legal teams prefer OC for completed projects to verify compliance before loan approval."
+    },
+    {
+      "question": "Does OC verify land title or ownership?",
+      "answer": "No. It validates building compliance, not title. Ownership must be verified via Sale Deed, EC, and Property Card."
+    },
+    {
+      "question": "Does OC include fire, sewage, and utility approvals?",
+      "answer": "Yes. OC is issued only after safety, firefighting, sewage, road access, and utility permissions are cleared."
+    },
+    {
+      "question": "Can OC be issued partially for some wings or phases?",
+      "answer": "Yes. In phased developments, OC may be granted wing-wise or block-wise until full completion."
+    },
+    {
+      "question": "Is OC data from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from municipal and authority databases without modification."
+    }
+  ]
+}

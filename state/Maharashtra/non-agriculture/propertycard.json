@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a Property Card show in Maharashtra?",
+      "answer": "It shows ownership records, survey references, plot identification, mutation entries, remarks, and government rights over the property."
+    },
+    {
+      "question": "Is the Property Card applicable for agricultural land?",
+      "answer": "No. Property Cards are mainly for urban/NA land. Agricultural land uses 7/12 Extract instead."
+    },
+    {
+      "question": "Does the Property Card prove legal ownership?",
+      "answer": "It reflects recorded ownership in revenue systems, but final ownership proof requires registered deeds and related documents."
+    },
+    {
+      "question": "Does the Property Card show encumbrances or mortgages?",
+      "answer": "It may show government claims and remarks, but registered mortgages must be verified through EC and registration records."
+    },
+    {
+      "question": "Is a Property Card required for selling property?",
+      "answer": "It is recommended to verify land status and mutation before sale; registration requires Sale Deed, not just Property Card."
+    },
+    {
+      "question": "What is the difference between Property Card and 7/12 extract?",
+      "answer": "Property Card is for urban land under city survey records, while 7/12 Extract is for rural agricultural land."
+    },
+    {
+      "question": "Does the card show measurement or map boundaries?",
+      "answer": "It shows survey and CTS references; detailed boundaries require city survey maps or mutation maps."
+    },
+    {
+      "question": "Can Property Card help identify encroachments or government acquisition?",
+      "answer": "It may show government remarks or reservations; full verification requires town planning and land acquisition records."
+    },
+    {
+      "question": "Is Property Card required for home loan approval?",
+      "answer": "Banks may request Property Card along with Sale Deed, EC, and mutation records for verification."
+    },
+    {
+      "question": "Is Property Card downloaded from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from Maharashtra land and survey portals without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What do survey boundary records show?",
+      "answer": "They show the legally mapped extent of a land parcel, including boundary lines, adjoining survey numbers, and spatial positioning."
+    },
+    {
+      "question": "How is a survey boundary different from a 7/12 Extract?",
+      "answer": "Survey boundary defines physical limits on maps, while 7/12 contains ownership, crops, and revenue details."
+    },
+    {
+      "question": "Is survey boundary proof of land ownership?",
+      "answer": "No. It defines location and extent, but legal ownership must be verified using Sale Deed, Mutation, and Property Card."
+    },
+    {
+      "question": "Can survey boundaries confirm if a plot is encroached?",
+      "answer": "They help identify official boundaries, but encroachment must be verified through field survey or measurement on ground."
+    },
+    {
+      "question": "Are survey boundaries required during land subdivision?",
+      "answer": "Yes. Sub-division approvals, splitting of plots, and new Khata entries rely on boundary verification."
+    },
+    {
+      "question": "Do survey boundaries show zoning or land classification?",
+      "answer": "No. They show mapped extent. Land use must be checked through planning or revenue records."
+    },
+    {
+      "question": "Are survey boundaries useful for fencing or layout planning?",
+      "answer": "Yes. They help align fencing, internal roads, and plot demarcation as per legal measurements."
+    },
+    {
+      "question": "Do survey boundaries show exact dimension measurements?",
+      "answer": "They reflect survey-level mapping; exact measurements may require FMB or a licensed resurvey."
+    },
+    {
+      "question": "Can survey boundaries change after resurvey or consolidation?",
+      "answer": "Yes. Resurvey updates can alter survey numbers, boundaries, or merging of parcels based on official revisions."
+    },
+    {
+      "question": "Is survey boundary data from JaaGa authentic?",
+      "answer": "Yes. All boundary data is sourced directly from official Maharashtra survey and land mapping systems without modification."
+    }
+  ]
+}

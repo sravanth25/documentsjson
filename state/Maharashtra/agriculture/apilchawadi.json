@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does Apil Chawadi show?",
+      "answer": "It displays pending mutation proposals, the basis of ownership change, claimant names, and allows objections before approval."
+    },
+    {
+      "question": "Is Apil Chawadi required for mutation approval?",
+      "answer": "Yes. It is part of the public notice process to ensure no unseen disputes exist before ownership is updated."
+    },
+    {
+      "question": "Does Apil Chawadi confirm final ownership?",
+      "answer": "No. It shows proposals under process. Final ownership reflects only after mutation is approved and updated in records like 7/12."
+    },
+    {
+      "question": "Can objections be filed based on Apil Chawadi notice?",
+      "answer": "Yes. Interested parties can raise objections within the notice period if the mutation is inaccurate or disputed."
+    },
+    {
+      "question": "Is Apil Chawadi needed for land sale or loans?",
+      "answer": "It is useful for verification, but banks and legal teams require final mutation along with Sale Deed and EC."
+    },
+    {
+      "question": "Does Apil Chawadi show old ownership history?",
+      "answer": "It shows the current proposal. Past ownership must be verified through 7/12, mutation history, and sale deeds."
+    },
+    {
+      "question": "Does it confirm whether land is agricultural or NA?",
+      "answer": "No. Land type must be verified through 7/12, planning records, or NA orders."
+    },
+    {
+      "question": "Is Apil Chawadi applicable to disputes or court cases?",
+      "answer": "It may flag objections, but legal disputes require checking court and litigation records separately."
+    },
+    {
+      "question": "Can Apil Chawadi help detect fraudulent mutations?",
+      "answer": "Yes. Public notice helps prevent unauthorized transfers without stakeholder awareness."
+    },
+    {
+      "question": "Is Apil Chawadi data from JaaGa authentic?",
+      "answer": "Yes. All notices are sourced directly from official Maharashtra revenue systems without modification."
+    }
+  ]
+}

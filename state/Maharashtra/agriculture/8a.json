@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does the 8A Extract show?",
+      "answer": "It shows ownership details, assessment account, land area, and tax-related entries recorded in revenue records."
+    },
+    {
+      "question": "How is 8A Extract different from 7/12 Extract?",
+      "answer": "7/12 shows land usage, crops, and cultivation details, while 8A focuses on ownership and tax assessments."
+    },
+    {
+      "question": "Is 8A required for agricultural land sale?",
+      "answer": "Yes. It helps verify tax status, mutations, and revenue ownership before executing a sale deed."
+    },
+    {
+      "question": "Does 8A Extract prove legal ownership?",
+      "answer": "It reflects revenue records, but legal ownership must be confirmed through registered Sale Deeds."
+    },
+    {
+      "question": "Is 8A needed for bank loans?",
+      "answer": "Yes. Banks often request 7/12 + 8A + mutation records for agricultural loan verification."
+    },
+    {
+      "question": "Does 8A show pending mutations?",
+      "answer": "It may reflect pending or incomplete mutation entries that need further verification in revenue records."
+    },
+    {
+      "question": "Does the 8A Extract show land classification?",
+      "answer": "It may reflect land type but full classification should be verified through 7/12 or survey records."
+    },
+    {
+      "question": "Does 8A include encumbrances or mortgages?",
+      "answer": "Not always. Registered transactions must be checked separately through EC or title audit."
+    },
+    {
+      "question": "Is 8A required for inheritance or partition?",
+      "answer": "Yes. Revenue authorities use 8A to update tax entries during succession or partition processes."
+    },
+    {
+      "question": "Is the 8A Extract from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from Maharashtra revenue systems without modification."
+    }
+  ]
+}

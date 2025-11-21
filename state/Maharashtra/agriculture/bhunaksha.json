@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does BhuNaksha show in Maharashtra?",
+      "answer": "It displays the digital cadastral map of the land, including survey boundaries, subdivision details, and spatial layout."
+    },
+    {
+      "question": "Is BhuNaksha the same as 7/12 Extract?",
+      "answer": "No. BhuNaksha shows map-based boundaries, while 7/12 contains usage, crop, and ownership revenue records."
+    },
+    {
+      "question": "Can BhuNaksha be used for boundary marking?",
+      "answer": "It helps identify legal boundaries, but physical demarcation requires a licensed surveyor or official field measurement."
+    },
+    {
+      "question": "Does BhuNaksha show encroachments or illegal occupation?",
+      "answer": "It shows legal plot boundaries. On-ground encroachments must be verified through a field survey."
+    },
+    {
+      "question": "Does BhuNaksha confirm ownership of the land?",
+      "answer": "No. Ownership must be verified through documents like Sale Deed, 7/12, and Mutation Extract."
+    },
+    {
+      "question": "Can BhuNaksha be used for layout or construction approvals?",
+      "answer": "It provides boundary reference but municipal approvals require sanctioned building plans and zoning documents."
+    },
+    {
+      "question": "Is BhuNaksha required to apply for mutation?",
+      "answer": "It can support subdivision verification during mutation, especially where survey boundaries have changed."
+    },
+    {
+      "question": "Will BhuNaksha show water bodies, roads, and public land?",
+      "answer": "It may reflect mapped public boundaries, but zoning classification must be checked separately."
+    },
+    {
+      "question": "Is BhuNaksha available for non-agricultural urban plots?",
+      "answer": "Some urban areas may not have cadastral layers available digitally and may require CTS or city survey maps instead."
+    },
+    {
+      "question": "Is BhuNaksha data from JaaGa authentic?",
+      "answer": "Yes. Maps are sourced directly from official Maharashtra BhuNaksha and survey systems without modification."
+    }
+  ]
+}

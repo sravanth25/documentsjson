@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a CTS Map show?",
+      "answer": "It shows plot boundaries, CTS numbers, road alignment, neighboring parcels, and spatial layout within city survey limits."
+    },
+    {
+      "question": "Is a CTS Map required for redevelopment projects?",
+      "answer": "Yes. Authorities often require CTS mapping to validate plot boundaries before redevelopment or layout approvals."
+    },
+    {
+      "question": "How is a CTS Map different from a Property Card?",
+      "answer": "A Property Card shows ownership and mutation details; a CTS Map provides boundary and layout details corresponding to CTS numbers."
+    },
+    {
+      "question": "Does a CTS Map work for agricultural land?",
+      "answer": "No. CTS applies to urban land. Agricultural properties use 7/12 Extract and survey maps."
+    },
+    {
+      "question": "Can CTS Maps help verify encroachments?",
+      "answer": "They help identify official boundaries, but on-ground verification requires field survey or measurement records."
+    },
+    {
+      "question": "Does a CTS Map show zoning or development rules?",
+      "answer": "No. It only shows layout boundaries. Zoning must be verified through Town Planning or Development Plans."
+    },
+    {
+      "question": "Is a CTS Map useful for loan or title verification?",
+      "answer": "Yes. Banks and legal teams may refer to CTS mapping along with Property Card and EC for title assessment."
+    },
+    {
+      "question": "Does the CTS Map show building structure details?",
+      "answer": "It focuses on land parcels. Building plans and sanctioned layouts must be sourced separately from municipal authorities."
+    },
+    {
+      "question": "Can CTS numbers change after resurvey or redevelopment?",
+      "answer": "Yes. Numbers may be updated or merged during resurvey, subdivision, or redevelopment approvals."
+    },
+    {
+      "question": "Is the CTS Map from JaaGa authentic?",
+      "answer": "Yes. All maps are sourced directly from official Maharashtra City Survey and land record systems without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "How is market value calculated in Maharashtra?",
+      "answer": "It is based on actual sale trends, locality demand, infrastructure, zoning, and development patterns, not just ready reckoner rates."
+    },
+    {
+      "question": "Is market value the same as ready reckoner or government guideline value?",
+      "answer": "No. Ready Reckoner is for stamp duty calculation; market value reflects real selling price in the current market."
+    },
+    {
+      "question": "What details do I need to fetch market value from JaaGa?",
+      "answer": "You only need the location details such as city, village, or locality to retrieve indicative values."
+    },
+    {
+      "question": "Can market value vary within the same locality?",
+      "answer": "Yes. Variation depends on road access, plot shape, frontage, zoning, project approvals, and nearby developments."
+    },
+    {
+      "question": "Is market value required for selling property?",
+      "answer": "Yes. It helps set realistic pricing based on current trends rather than just government minimum values."
+    },
+    {
+      "question": "Can banks use market value for loan approval?",
+      "answer": "Banks evaluate market value but may sanction loans based on internal valuation or ready reckoner, whichever is lower."
+    },
+    {
+      "question": "Does market value confirm legal title of the property?",
+      "answer": "No. It only indicates pricing. Legal status must be verified through Sale Deed, EC, Property Card, and mutation records."
+    },
+    {
+      "question": "Does market value apply to agricultural land in Maharashtra?",
+      "answer": "Yes, but valuation factors differ—they depend on soil quality, irrigation, access, and cultivation potential."
+    },
+    {
+      "question": "Can market value be used for capital gains calculation?",
+      "answer": "It helps assess pricing, but tax valuation is based on indexed cost, sale consideration, and official valuation rules."
+    },
+    {
+      "question": "Is market value data from JaaGa authentic?",
+      "answer": "Yes. Values are based on verified public datasets, transaction insights, and official sources without manual alteration."
+    }
+  ]
+}
