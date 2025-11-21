@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is Sub Division Number required for FMB Sketch?",
+      "answer": "Many survey numbers are split into multiple sub-plots. The Sub Division Number ensures we fetch the exact parcel instead of the parent survey map."
+    },
+    {
+      "question": "Why do I need to select Land Type for downloading FMB?",
+      "answer": "Some survey numbers have multiple classification entries. Land Type helps fetch accurate records, especially in mixed-use or reclassified lands."
+    },
+    {
+      "question": "Is FMB used for physical land measurement on ground?",
+      "answer": "Yes. Surveyors use FMB measurements and coordinates for field marking, fencing, and identifying boundaries on-site."
+    },
+    {
+      "question": "Does FMB show adjacent survey plots?",
+      "answer": "Yes. FMB often shows neighboring parcel boundaries for reference along with subdivision geometry."
+    },
+    {
+      "question": "Can FMB Sketch help verify illegal encroachments?",
+      "answer": "Yes. FMB provides exact plot dimensions which can be compared with ground measurements to detect encroachments."
+    },
+    {
+      "question": "Is FMB mandatory for layout or building approval?",
+      "answer": "Often yes, especially for land development, layout submission, and conversion from agriculture to non-agriculture use."
+    },
+    {
+      "question": "Does FMB show whether land is Patta or government land?",
+      "answer": "No. FMB shows geometry only. Ownership status must be verified using Patta/Chitta or EC records."
+    },
+    {
+      "question": "Can FMB be used as proof of ownership?",
+      "answer": "No. It is a survey record. Ownership is confirmed through registered Sale Deeds and revenue records."
+    },
+    {
+      "question": "Can FMB show water bodies or road access?",
+      "answer": "It shows boundary lines, but land-use, zoning, or hydrology checks must be done separately."
+    },
+    {
+      "question": "Is the FMB downloaded from JaaGa authentic?",
+      "answer": "Yes. All data is sourced directly from official Tamil Nadu survey and land record systems without modification."
+    }
+  ]
+}

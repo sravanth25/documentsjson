@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is prohibited agricultural land?",
+      "answer": "It refers to farmland that is legally restricted from sale, transfer, registration, or development due to government regulations or protected classifications."
+    },
+    {
+      "question": "Why should I check prohibited status before purchasing agricultural land?",
+      "answer": "Many agricultural lands involve government grants, assigned status, or public interest protections. Buying such land can lead to rejected registrations, disputes, or legal action."
+    },
+    {
+      "question": "What details are required to check prohibited land status?",
+      "answer": "You only need Village/Division, to verify agricultural prohibited land status."
+    },
+    {
+      "question": "How does JaaGa verify prohibited status?",
+      "answer": "JaaGa cross-checks land records from official revenue portals, classification databases, survey systems, and government notifications."
+    },
+    {
+      "question": "What types of agricultural lands are commonly prohibited?",
+      "answer": "Assigned lands, endowment/temple lands, ceiling surplus lands, forest lands, government reserve lands, wetlands, and water body buffer zones."
+    },
+    {
+      "question": "Is prohibited land the same as disputed land?",
+      "answer": "No. Prohibited land is restricted due to government classification, while disputes arise from private legal conflicts. A land may be one or both."
+    },
+    {
+      "question": "Can prohibited land be sold legally?",
+      "answer": "Generally no, unless government approval or reclassification is granted. Most prohibited lands cannot be legally transferred."
+    },
+    {
+      "question": "Does EC show prohibited land status?",
+      "answer": "Not always. EC shows registered transactions but does not reflect classification-based restrictions, so a separate check is required."
+    },
+    {
+      "question": "Does prohibited land appear in Pattadar Passbook or ROR records?",
+      "answer": "Sometimes classification is reflected, but not always. Verification requires dedicated prohibited land checks."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All information is sourced from official government land and revenue records without modification."
+    }
+  ]
+}

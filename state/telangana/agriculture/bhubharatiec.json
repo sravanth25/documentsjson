@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Bhu Bharati EC?",
+      "answer": "Bhu Bharati EC is a digital encumbrance record that shows registered land transactions, ownership transfers, and mortgages from the Telangana Bhu Bharati system."
+    },
+    {
+      "question": "Why is Bhu Bharati EC important?",
+      "answer": "It helps verify past sales, mortgages, and ownership history before buying or registering a property, reducing risks of disputes or fraudulent transactions."
+    },
+    {
+      "question": "What is the difference between Bhu Bharati EC and regular EC?",
+      "answer": "Bhu Bharati EC shows digital land records sourced from the Bhu Bharati system, while regular EC is pulled from registration office records. Certified EC is required for legal submissions."
+    },
+    {
+      "question": "What details are required to fetch Bhu Bharati EC?",
+      "answer": "Village/Division or property location details may be required depending on dataset availability."
+    },
+    {
+      "question": "Is Bhu Bharati EC valid for legal submission?",
+      "answer": "It is useful for verification but may not replace certified EC copies required for loans, courts, or registration procedures."
+    },
+    {
+      "question": "How does JaaGa fetch Bhu Bharati EC?",
+      "answer": "Data is retrieved directly from official Telangana Bhu Bharati databases and matched with government land records."
+    },
+    {
+      "question": "Does Bhu Bharati EC show disputed or prohibited land?",
+      "answer": "It shows registered transactions, not disputes or restrictions. Separate prohibited land checks are required."
+    },
+    {
+      "question": "Does Bhu Bharati EC verify ownership?",
+      "answer": "It reflects transaction entries that help verify history, but the Sale Deed remains the primary legal proof of ownership."
+    },
+    {
+      "question": "Is the data accurate?",
+      "answer": "Yes. All data is sourced directly from government digital land records without modification."
+    },
+    {
+      "question": "Can I request certified copies through JaaGa?",
+      "answer": "Yes. You can request certified EC copies separately for official purposes."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Property Tax Receipt in Tamil Nadu?",
+      "answer": "It is an official document showing that property tax has been paid to the municipal or panchayat authority for a specific assessment period."
+    },
+    {
+      "question": "What details are required to download the property tax receipt?",
+      "answer": "You only need the PTIN Number to download the receipt through JaaGa."
+    },
+    {
+      "question": "Why is a property tax receipt important?",
+      "answer": "It verifies tax compliance and is often required for resale, loans, ownership verification, mutation updates, and government submissions."
+    },
+    {
+      "question": "Can JaaGa fetch the receipt if it's not available online?",
+      "answer": "If online records are unavailable, JaaGa attempts alternate verification or provides manual assistance where possible."
+    },
+    {
+      "question": "Is a tax receipt proof of ownership?",
+      "answer": "No. It supports ownership claims but does not replace registered Sale Deed or Patta records."
+    },
+    {
+      "question": "Can I check pending dues using the receipt?",
+      "answer": "Yes. Receipts may show arrears and outstanding balances if applicable."
+    },
+    {
+      "question": "Is this receipt accepted for loan or legal purposes?",
+      "answer": "Yes, property tax receipts are commonly required for bank loans, government registrations, and compliance checks."
+    },
+    {
+      "question": "Does the receipt show property dimensions or survey details?",
+      "answer": "It may show address and assessment data but not detailed land measurements. Survey records must be checked separately."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All receipts are fetched from official municipal and government portals without modification."
+    }
+  ]
+}

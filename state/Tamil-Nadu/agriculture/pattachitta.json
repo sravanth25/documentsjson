@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is the purpose of Patta / Chitta?",
+      "answer": "Patta records ownership and revenue details, while Chitta provides land classification such as wet, dry, or specific usage categories."
+    },
+    {
+      "question": "Why is Land Type required to fetch Patta / Chitta?",
+      "answer": "Classification (wet/dry/urban/agricultural) helps fetch the correct record from revenue systems, especially when multiple entries exist for the same survey number."
+    },
+    {
+      "question": "Does Patta / Chitta confirm legal ownership?",
+      "answer": "It supports ownership claims but final legal proof remains the registered Sale Deed and EC history."
+    },
+    {
+      "question": "Does Patta / Chitta show subdivision details?",
+      "answer": "Yes. Chitta reflects sub-division mapping when land is split or partially transferred."
+    },
+    {
+      "question": "Why is the owner’s contact number required?",
+      "answer": "It helps fetch linked records and verify identity in portals where OTP or registered contact validation is required."
+    },
+    {
+      "question": "Can Patta / Chitta show government or assigned land?",
+      "answer": "It may indicate classification, but restricted or prohibited status requires a separate verification report."
+    },
+    {
+      "question": "Does Patta / Chitta show building approval or layout permissions?",
+      "answer": "No. It only shows land classification; planning approvals must be checked through CMDA/DTCP or municipal authorities."
+    },
+    {
+      "question": "Will Patta update automatically after property registration?",
+      "answer": "No. Mutation must be applied separately after registration to update Patta records."
+    },
+    {
+      "question": "Can Patta exist without a Sale Deed?",
+      "answer": "Yes, in inheritance cases, government-allotted land, or ancestral holdings without registered transactions."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All records are retrieved directly from government revenue portals without alterations."
+    }
+  ]
+}

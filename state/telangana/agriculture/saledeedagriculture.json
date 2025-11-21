@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Agricultural Sale Deed?",
+      "answer": "It is a legally registered document that transfers ownership of agricultural land from the seller to the buyer and serves as primary proof of title."
+    },
+    {
+      "question": "What details are required to download an agricultural sale deed?",
+      "answer": "You only need the Tahsildar & Jt. Registrar Office, Document Number, and Registration Year."
+    },
+    {
+      "question": "Is a Sale Deed enough for proof of ownership?",
+      "answer": "It is the primary document, but you should also verify mutation status, survey records, tax receipts, and EC history for complete validation."
+    },
+    {
+      "question": "What other documents should be checked with an agricultural sale deed?",
+      "answer": "Survey records, mutation/Khata, Encumbrance Certificate, prohibited land status, tax receipts, and farmer passbook or revenue extracts where applicable."
+    },
+    {
+      "question": "What is the difference between an Agreement of Sale and a Sale Deed?",
+      "answer": "An Agreement of Sale is a promise to sell; ownership is transferred only when a Sale Deed is registered at the Sub-Registrar Office."
+    },
+    {
+      "question": "How can I verify the authenticity of the sale deed?",
+      "answer": "You can cross-check registration details on government portals, match EC history, and verify survey and mutation records."
+    },
+    {
+      "question": "Why is registration required for agricultural land sale?",
+      "answer": "Registration makes the transfer legally enforceable and ensures government records reflect the new ownership."
+    },
+    {
+      "question": "Can JaaGa provide certified copies of agricultural sale deeds?",
+      "answer": "Yes. You can request certified copies through JaaGa, and they are sourced directly from government offices."
+    },
+    {
+      "question": "Does the sale deed include survey boundaries?",
+      "answer": "It includes survey numbers and extent, but detailed boundaries may require survey maps or FMB extracts."
+    },
+    {
+      "question": "Is the data provided by JaaGa authentic?",
+      "answer": "Yes. All sale deed data is retrieved from official government registrations and is not altered or recreated."
+    }
+  ]
+}

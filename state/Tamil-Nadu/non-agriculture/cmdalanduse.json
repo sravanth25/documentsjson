@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What are CMDA land use details?",
+      "answer": "CMDA land use details show how land is classified under the Chennai Metropolitan Development Authority’s planning zones, such as residential, commercial, industrial, institutional, or open space reservation (OSR)."
+    },
+    {
+      "question": "Why are CMDA land use details important?",
+      "answer": "They ensure that the property is being used legally and that construction plans comply with zoning laws to avoid penalties, demolition, or rejected building approvals."
+    },
+    {
+      "question": "What details are required to check CMDA land use through JaaGa?",
+      "answer": "You need basic property location details such as area, street/ward, or survey number to fetch land use classification."
+    },
+    {
+      "question": "Does CMDA land use prove ownership?",
+      "answer": "No. It only shows zoning classification. Ownership must be verified using Sale Deed, EC, and Patta/Chitta records."
+    },
+    {
+      "question": "What types of classifications can be seen?",
+      "answer": "Common classifications include Residential, Commercial, Industrial, Institutional, Agriculture, Special Zones, and OSR (Open Space Reservation)."
+    },
+    {
+      "question": "Does CMDA land use show if land is approved for construction?",
+      "answer": "It indicates zoning, but approvals depend on planning permission, layout approval, and regulatory clearances."
+    },
+    {
+      "question": "Does CMDA land use show government or prohibited land?",
+      "answer": "Not always. Zoning and government land status are separate; prohibited classification requires independent checks."
+    },
+    {
+      "question": "Is CMDA data different from DTCP or other authorities?",
+      "answer": "Yes. CMDA covers Chennai metropolitan limits, while DTCP covers other regions in Tamil Nadu."
+    },
+    {
+      "question": "How does JaaGa verify CMDA land use?",
+      "answer": "JaaGa fetches information from official CMDA GIS data, master plans, and planning records without modification."
+    },
+    {
+      "question": "Is CMDA land use legally valid for approvals?",
+      "answer": "Yes, it is required for planning permission, but certified documents from CMDA may be needed for submission."
+    }
+  ]
+}

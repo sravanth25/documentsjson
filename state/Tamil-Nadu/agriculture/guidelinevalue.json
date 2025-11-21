@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Agricultural Guideline Value?",
+      "answer": "It is the government-fixed valuation of agricultural land used to calculate stamp duty and registration charges during land transactions."
+    },
+    {
+      "question": "What details are required to fetch agricultural guideline value?",
+      "answer": "You only need the Village or Division details to retrieve guideline value through JaaGa."
+    },
+    {
+      "question": "Is guideline value different for dry and wet agricultural land?",
+      "answer": "Yes. Agricultural land may have different valuation slabs depending on soil type, irrigation availability, and land classification."
+    },
+    {
+      "question": "Does guideline value consider crop yield or soil productivity?",
+      "answer": "No. Guideline value is a legal valuation metric and does not reflect crop yield, fertility, or actual agricultural revenue."
+    },
+    {
+      "question": "Can guideline value affect conversion from agricultural to non-agricultural land?",
+      "answer": "It may influence valuation for conversion fees, but conversion approval depends on zoning and planning permissions."
+    },
+    {
+      "question": "Does guideline value include structures or only land value?",
+      "answer": "It applies primarily to land value. Any buildings or improvements may require separate valuation."
+    },
+    {
+      "question": "Is guideline value used for government compensation or acquisition?",
+      "answer": "Sometimes, but acquisition may use separate compensation rules, revised values, or market-based assessments."
+    },
+    {
+      "question": "Can two adjacent survey numbers have different guideline values?",
+      "answer": "Yes. Values may differ based on settlement categorization, classification, and revenue boundaries even within the same village."
+    },
+    {
+      "question": "Is agricultural guideline value enough to determine fair market price?",
+      "answer": "No. It sets a legal floor price, while actual market value depends on demand, location, frontage, soil quality, and access."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All values are sourced directly from official government valuation registers and state revenue portals."
+    }
+  ]
+}

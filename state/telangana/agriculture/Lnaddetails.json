@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Land Details Search?",
+      "answer": "Land Details Search identifies the legal classification of land, such as assigned land, government land, lavuni land, or patta land, based on government records."
+    },
+    {
+      "question": "What details are required to check land classification through JaaGa?",
+      "answer": "You only need Village/Division, Survey Number, and Khata Number to fetch the land classification instantly."
+    },
+    {
+      "question": "What types of land classifications can be identified?",
+      "answer": "Common classifications include assigned land, patta land, government land, lavuni land, tribal land, endowment/temple land, ceiling surplus land, and more."
+    },
+    {
+      "question": "Does this search show ownership details?",
+      "answer": "No. It only shows land classification. For ownership records, separate documents like Sale Deed, ROR-1B, or Pattadar Passbook are required."
+    },
+    {
+      "question": "Does this provide survey boundaries or measurements?",
+      "answer": "No. This service is classification-based. For measurements, FMB or Tippon maps are required."
+    },
+    {
+      "question": "Why is land classification important?",
+      "answer": "It helps determine whether the land can be sold, transferred, developed, or used for agricultural or commercial purposes legally."
+    },
+    {
+      "question": "Can assigned or government land be sold legally?",
+      "answer": "Generally no. Assigned and government lands are restricted from sale unless legally converted or reclassified."
+    },
+    {
+      "question": "What if the land is classified as restricted?",
+      "answer": "You may need legal clearance, reclassification, or supporting documents before proceeding with purchase or development."
+    },
+    {
+      "question": "Does JaaGa verify classification from official records?",
+      "answer": "Yes. All classification data is sourced from official government land and revenue systems."
+    },
+    {
+      "question": "Is this report legally valid?",
+      "answer": "It is valid for verification purposes, but certified copies or legal documents may be required for official submissions."
+    }
+  ]
+}

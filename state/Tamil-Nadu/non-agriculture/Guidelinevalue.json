@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Guideline Value?",
+      "answer": "Guideline Value is the government-fixed minimum value of land or property used to calculate stamp duty and registration charges during transactions."
+    },
+    {
+      "question": "Is guideline value the same as market value?",
+      "answer": "No. Market value reflects real selling price based on demand, while guideline value is the government benchmark used for legal valuation."
+    },
+    {
+      "question": "What details are required to fetch Guideline Value through JaaGa?",
+      "answer": "You only need the Village or Division details to get the official guideline value."
+    },
+    {
+      "question": "How does JaaGa fetch guideline values?",
+      "answer": "JaaGa retrieves values directly from official government valuation and registration portals based on location parameters."
+    },
+    {
+      "question": "Does guideline value change over time?",
+      "answer": "Yes. Government revises land valuation periodically based on policy changes and urban development."
+    },
+    {
+      "question": "Does guideline value include building or only land?",
+      "answer": "In many cases, it applies to land value. For buildings, constructed value may be applied separately depending on state rules."
+    },
+    {
+      "question": "Is guideline value used for home loans?",
+      "answer": "Banks may consider guideline value but also rely on independent valuation reports before approving loans."
+    },
+    {
+      "question": "Is guideline value legally binding?",
+      "answer": "Yes, it must be used for calculating stamp duty and registration fees, even if the selling price is higher."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All values are sourced directly from official government valuation databases without modification."
+    }
+  ]
+}

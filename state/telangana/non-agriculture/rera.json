@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a RERA Certificate?",
+      "answer": "A RERA Certificate confirms that a real estate project or developer is officially registered with the state's Real Estate Regulatory Authority and is legally permitted to sell units."
+    },
+    {
+      "question": "Why is a RERA Certificate important?",
+      "answer": "It helps verify legal approvals, project authenticity, and ensures the builder follows regulatory compliance, preventing fraud and illegal constructions."
+    },
+    {
+      "question": "What details are required to fetch the RERA Certificate?",
+      "answer": "You only need project name, builder name, or registration number, depending on the state."
+    },
+    {
+      "question": "How does JaaGa verify RERA details?",
+      "answer": "JaaGa retrieves project data directly from official state RERA portals and cross-checks compliance status and filings."
+    },
+    {
+      "question": "What information does a RERA Certificate include?",
+      "answer": "It includes project approvals, promoter details, sanctioned plan info, land title status, litigation records, deadlines, and compliance updates."
+    },
+    {
+      "question": "Is every property required to be RERA registered?",
+      "answer": "Most new residential and commercial projects exceeding minimum land/area limits must register, but layouts, small developments, and old resale properties may be exempt."
+    },
+    {
+      "question": "How do I know if a builder is RERA compliant?",
+      "answer": "You can verify using the builder's registration number or project search. JaaGa provides direct lookup from state RERA portals."
+    },
+    {
+      "question": "Does RERA guarantee that a project is dispute-free?",
+      "answer": "RERA ensures regulatory compliance but does not guarantee absence of private disputes. Additional legal checks may still be required."
+    },
+    {
+      "question": "Is a RERA Certificate proof of ownership?",
+      "answer": "No. It confirms regulatory approval but does not serve as a title deed or proof of individual property ownership."
+    },
+    {
+      "question": "Is the data provided by JaaGa authentic?",
+      "answer": "Yes. All information is sourced from official state RERA websites and legally approved records."
+    }
+  ]
+}

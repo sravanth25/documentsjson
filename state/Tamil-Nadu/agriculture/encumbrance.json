@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Does the EC show unregistered transactions?",
+      "answer": "No. EC only includes registered transactions. Private agreements or disputes not registered may not appear."
+    },
+    {
+      "question": "Why is Document Type required to fetch EC?",
+      "answer": "Specifying Document Type helps filter records to match the correct transaction, especially when multiple documents exist under similar details."
+    },
+    {
+      "question": "Can EC show partial land sales from a larger survey?",
+      "answer": "Yes, if the subdivision has been properly registered. Otherwise, the main survey entry may appear without segmented details."
+    },
+    {
+      "question": "Does EC show government acquisition or land pooling entries?",
+      "answer": "If such acquisition or transfer is registered officially, it appears in EC. Otherwise, separate verification is required from planning authorities."
+    },
+    {
+      "question": "Can EC be issued for a specific time period?",
+      "answer": "Yes. EC can be issued for custom date ranges, useful for past ownership verification or loan closure validation."
+    },
+    {
+      "question": "Does EC confirm if land is free of legal disputes?",
+      "answer": "It confirms registered encumbrances but court cases or civil disputes may require separate litigation checks."
+    },
+    {
+      "question": "Can EC be used as proof of ownership?",
+      "answer": "No. EC shows transaction history but ownership is proven only through the registered Sale Deed."
+    },
+    {
+      "question": "Can multiple documents exist for the same property?",
+      "answer": "Yes. Layout approvals, mortgage deeds, subdivision deeds, and gift deeds may all relate to the same property. EC helps trace them."
+    },
+    {
+      "question": "Does EC include latest cancelled deeds?",
+      "answer": "Yes, cancellations registered in the SRO appear in EC to indicate invalidated transactions."
+    },
+    {
+      "question": "Is EC mandatory before buying property?",
+      "answer": "Yes. EC is essential to confirm clear title before buying, leasing, mortgaging, or registering a property."
+    }
+  ]
+}

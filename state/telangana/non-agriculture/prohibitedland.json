@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a prohibited land check?",
+      "answer": "It is a verification process to identify whether the land is restricted from sale, transfer, registration, or development due to government regulations or legal restrictions."
+    },
+    {
+      "question": "Why is it important to check prohibited land status?",
+      "answer": "Prohibited lands cannot be legally sold or registered. Checks help prevent fraud, financial loss, rejected registrations, and legal disputes."
+    },
+    {
+      "question": "What types of properties are considered prohibited?",
+      "answer": "Common prohibited categories include government lands, assigned lands, endowment/temple lands, ceiling surplus lands, forest lands, wakf lands, and restricted registration zones."
+    },
+    {
+      "question": "How does JaaGa check if land is prohibited?",
+      "answer": "JaaGa verifies land records through government revenue portals, Dharani/SRO systems, classification maps, survey records, and legal notifications."
+    },
+    {
+      "question": "Do prohibited lands appear in Encumbrance Certificates?",
+      "answer": "Not always. EC shows registered transactions but may not display classification restrictions, so a separate prohibited check is required."
+    },
+    {
+      "question": "Is prohibited status the same as disputed land?",
+      "answer": "No. Prohibited land is restricted by law, whereas disputes are legal conflicts between parties. A land can be disputed, prohibited, both, or neither."
+    },
+    {
+      "question": "Can a prohibited land be sold legally?",
+      "answer": "No, unless government clearance or reclassification is legally approved. Most prohibited categories cannot be transferred."
+    },
+    {
+      "question": "Can JaaGa provide documentation proof of prohibition?",
+      "answer": "Yes. JaaGa fetches official classification records, portal proofs, survey data, and supporting documents when available."
+    },
+    {
+      "question": "What details are required to check prohibition status?",
+      "answer": "You only need basic property details like Village/Division, Survey Number, and Khata/Passbook details depending on the state."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All verification is based on official government land records, classification databases, and authenticated portals."
+    }
+  ]
+}

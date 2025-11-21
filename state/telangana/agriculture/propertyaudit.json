@@ -1,0 +1,52 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Agricultural Property Audit Report?",
+      "answer": "It is a detailed verification report that checks ownership history, survey details, encumbrances, mutation, tax records, and legal risks for agricultural land."
+    },
+    {
+      "question": "Why is auditing agricultural land important?",
+      "answer": "Agricultural lands often involve disputes, unclear boundaries, assigned land status, prohibited zones, and shared lineage ownership. The audit helps identify risks before purchase or documentation."
+    },
+    {
+      "question": "What details are required for the agricultural audit?",
+      "answer": "You need Village/Division, Survey Number, Khata Number, Document Number, and Registration Year."
+    },
+    {
+      "question": "What does the audit include?",
+      "answer": "Ownership chain, EC data, survey maps, mutation status, prohibited land checks, tax dues, lineage records, and legal observations based on government data."
+    },
+    {
+      "question": "How long does the agricultural audit take?",
+      "answer": "Reports are typically delivered within 1 working day depending on record availability and verification complexity."
+    },
+    {
+      "question": "Does the audit include survey and map verification?",
+      "answer": "Yes. We check survey maps, land parcels, boundaries, extent, and classification from official revenue/survey portals."
+    },
+    {
+      "question": "Does the audit check prohibited or assigned land status?",
+      "answer": "Yes, the report highlights categories like assigned land, endowment land, forest land, ceiling surplus, or restricted zones."
+    },
+    {
+      "question": "Is the agricultural audit legally valid?",
+      "answer": "Yes, all data is sourced from official government records. However, the audit is for verification and does not replace certified documents or legal representation."
+    },
+    {
+      "question": "Can land be agricultural but still have disputes?",
+      "answer": "Yes. Agriculture lands may have succession disputes, partition claims, boundary conflicts, encroachments, or revenue mismatches."
+    },
+    {
+      "question": "What if issues are found in the audit?",
+      "answer": "We highlight risks and recommend next steps like mutation updates, legal notices, boundary surveys, or documentation follow-up."
+    },
+    {
+      "question": "Does JaaGa help with post-audit services?",
+      "answer": "Yes. You can request certified copies, mutation updates, survey assistance, legal documentation, and title correction services."
+    },
+    {
+      "question": "Is agricultural audit proof of ownership?",
+      "answer": "No. Ownership proof comes from registered deeds. The audit verifies and validates records but does not serve as a legal title document."
+    }
+  ]
+}

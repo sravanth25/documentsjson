@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What are Registered Document Details?",
+      "answer": "They are official records of a property document registered at the Sub-Registrar Office, including document type, parties involved, extent, and registration data."
+    },
+    {
+      "question": "What details are required to fetch registered document details through JaaGa?",
+      "answer": "You only need Tahsildar & Jt. Registrar Office, Document Number, and Registration Year."
+    },
+    {
+      "question": "What information is included in the registered document details?",
+      "answer": "Document type, buyer and seller names, survey/location details, execution date, registration number, SRO office, and nature of transaction."
+    },
+    {
+      "question": "Does this provide a certified copy of the document?",
+      "answer": "No. It provides details for verification. You can request a certified copy separately through JaaGa."
+    },
+    {
+      "question": "Can this verify if a document is legally registered?",
+      "answer": "Yes, it confirms if the document exists and is recorded in the SRO database."
+    },
+    {
+      "question": "Is this the same as EC?",
+      "answer": "No. EC shows transaction history and encumbrances, while registered document details show the specifics of a single document."
+    },
+    {
+      "question": "Can I verify buyer and seller names?",
+      "answer": "Yes. Registered document details include parties involved as per government records."
+    },
+    {
+      "question": "Does this show survey and land measurements?",
+      "answer": "It shows survey/location details mentioned in the document, but not detailed measurement maps."
+    },
+    {
+      "question": "Is this legally valid?",
+      "answer": "It is valid for verification, but certified copies are required for official submissions like banks or legal cases."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All information is retrieved directly from official government portals without modification."
+    }
+  ]
+}

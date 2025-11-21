@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a TSLR Extract?",
+      "answer": "A TSLR Extract is a Town Survey Land Record for urban areas that provides details such as survey number, subdivision, land classification, and municipal mapping identifiers."
+    },
+    {
+      "question": "What details are required to download a TSLR Extract through JaaGa?",
+      "answer": "You need Town/Division, Ward Name, Block, Town Survey Number, and Sub Division Number."
+    },
+    {
+      "question": "Why is a TSLR Extract important?",
+      "answer": "It helps verify land identity in urban areas, validate survey location, support government approvals, and cross-check records for legal and municipal compliance."
+    },
+    {
+      "question": "Does the TSLR Extract show ownership details?",
+      "answer": "It shows survey and classification details, but ownership proof must be verified through Sale Deed, EC, and Patta/Mutation records."
+    },
+    {
+      "question": "Does TSLR Extract include exact measurements?",
+      "answer": "No, it provides survey and subdivision references but not detailed measurements. For cadastral measurements, FMB or Tippon maps are required."
+    },
+    {
+      "question": "Is TSLR applicable to rural agricultural lands?",
+      "answer": "No. TSLR is for town/urban lands. Rural lands rely on Adangal, ROR-1B, Pattadar Passbook, and survey maps."
+    },
+    {
+      "question": "Does TSLR help identify prohibited or government land?",
+      "answer": "It may indicate classification, but prohibited status requires a separate legal verification."
+    },
+    {
+      "question": "Is TSLR required for building or layout approvals?",
+      "answer": "Yes, TSLR is often used in urban development approvals along with EC, Sale Deed, and approved building plans."
+    },
+    {
+      "question": "How does JaaGa fetch TSLR Extracts?",
+      "answer": "JaaGa retrieves the extract directly from official town survey databases based on the survey and subdivision inputs."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes, all TSLR data is sourced directly from official government land record portals without modification."
+    }
+  ]
+}

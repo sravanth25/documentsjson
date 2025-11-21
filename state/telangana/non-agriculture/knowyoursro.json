@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an SRO?",
+      "answer": "An SRO (Sub-Registrar Office) is the government office responsible for registering property transactions like sale deeds, gift deeds, and agreements."
+    },
+    {
+      "question": "Why do I need to know my SRO?",
+      "answer": "You need the correct SRO to download ECs, apply for certified copies, register a property document, initiate mutation requests, and verify ownership records."
+    },
+    {
+      "question": "What details are required to find the SRO?",
+      "answer": "You only need the Village or Division details to identify the correct SRO through JaaGa."
+    },
+    {
+      "question": "How does JaaGa find the correct SRO?",
+      "answer": "JaaGa checks official jurisdiction maps, government registration databases, and village-wise SRO allocations."
+    },
+    {
+      "question": "Is SRO the same for agricultural and non-agricultural land?",
+      "answer": "Generally yes, but jurisdiction may vary based on survey boundaries, district limits, or administrative changes."
+    },
+    {
+      "question": "Can I download documents once I know the SRO?",
+      "answer": "Yes. Once the SRO is identified, you can request ECs, certified copies, and related property documents through JaaGa."
+    },
+    {
+      "question": "Does SRO change over time?",
+      "answer": "Yes, jurisdictions can change due to administrative reorganization or new office creation. Always verify before applying."
+    },
+    {
+      "question": "Is knowing the SRO required for buying property?",
+      "answer": "Yes, the SRO confirms registration jurisdiction and helps validate historical sale records before purchasing."
+    },
+    {
+      "question": "Is SRO proof of ownership?",
+      "answer": "No. It indicates jurisdiction but does not confirm ownership. Ownership is verified through Sale Deed, EC, and mutation records."
+    },
+    {
+      "question": "Is data from JaaGa accurate?",
+      "answer": "Yes. All SRO details are sourced from official government jurisdiction lists and verified portals."
+    }
+  ]
+}

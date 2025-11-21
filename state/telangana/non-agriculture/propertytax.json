@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Property Tax Receipt?",
+      "answer": "A Property Tax Receipt is proof that property tax has been paid to the municipal or panchayat authority for a specific period."
+    },
+    {
+      "question": "Why is the Property Tax Receipt important?",
+      "answer": "It is used to verify tax compliance, support ownership claims, apply for loans, complete mutation, and validate records during resale or legal processes."
+    },
+    {
+      "question": "What details are required to download a tax receipt?",
+      "answer": "Typically required: Property ID / PTIN, Door Number, Owner Name, and Municipality/Gram Panchayat details. Requirements vary by region."
+    },
+    {
+      "question": "Can I download property tax receipts through JaaGa?",
+      "answer": "Yes. JaaGa helps you download tax receipts from official portals or retrieves them manually if online data is unavailable."
+    },
+    {
+      "question": "How does JaaGa verify tax information?",
+      "answer": "We cross-check data with official government portals and municipal records to ensure accuracy, and provide supporting links where available."
+    },
+    {
+      "question": "Is a tax receipt proof of ownership?",
+      "answer": "No. It supports ownership but does not replace a registered sale deed or mutation records."
+    },
+    {
+      "question": "Is the receipt legally accepted by banks or authorities?",
+      "answer": "Yes, property tax receipts are commonly required for home loans, mutation, government approvals, and compliance checks."
+    },
+    {
+      "question": "How often do I need to pay property tax?",
+      "answer": "Payment frequency varies by region—typically annually or semi-annually depending on municipality rules."
+    },
+    {
+      "question": "Does JaaGa help with unpaid property tax?",
+      "answer": "Yes. JaaGa assists with locating pending dues and providing guidance on completing tax payments where supported."
+    }
+  ]
+}

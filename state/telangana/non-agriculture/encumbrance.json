@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Encumbrance Certificate (EC)?",
+      "answer": "An EC is an official record showing a property's registered transactions, ownership transfers, mortgages, and liabilities with the Sub-Registrar Office."
+    },
+    {
+      "question": "Why is an EC important?",
+      "answer": "It helps verify if a property has clear title or if there are loans, prior sales, or legal encumbrances before purchasing or selling."
+    },
+    {
+      "question": "What details are required to download the EC?",
+      "answer": "You only need three details: SRO, Document Number, and Registration Year."
+    },
+    {
+      "question": "Is the EC downloaded from JaaGa legally valid?",
+      "answer": "The online EC is for informational checks. A certified EC is required for official use such as bank loans, court cases, or registration."
+    },
+    {
+      "question": "How do I get a certified EC copy through JaaGa?",
+      "answer": "Provide your document details, and JaaGa retrieves the certified copy directly from government records and delivers it digitally."
+    },
+    {
+      "question": "What information does the EC show?",
+      "answer": "It reflects ownership changes, sale deed entries, mortgage registrations, cancellations, gift deeds, and other registered transactions."
+    },
+    {
+      "question": "Can EC show court cases or disputes?",
+      "answer": "EC only shows registered encumbrances. Court cases or unregistered disputes may not appear and require additional legal checks."
+    },
+    {
+      "question": "How can I verify the authenticity of the EC?",
+      "answer": "You can cross-check the details on the official Telangana IGRS portal or compare them with associated sale deeds and mutation records."
+    },
+    {
+      "question": "Is the data from JaaGa accurate?",
+      "answer": "Yes, all EC data is sourced directly from Telangana government systems. JaaGa does not alter any official records."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a non-agricultural Sale Deed in Tamil Nadu?",
+      "answer": "It is a legally registered document that confirms the transfer of property rights for plots, residential units, commercial buildings, or non-agricultural land in Tamil Nadu."
+    },
+    {
+      "question": "What details are required to download a Sale Deed through JaaGa?",
+      "answer": "You only need SRO, Document Number, and Registration Year to download the Sale Deed instantly."
+    },
+    {
+      "question": "Is the Sale Deed proof of ownership?",
+      "answer": "Yes, it is the primary legal proof of ownership. However, verification of EC history, tax records, and mutation status is recommended."
+    },
+    {
+      "question": "What other documents should I check along with a Sale Deed in Tamil Nadu?",
+      "answer": "Encumbrance Certificate (EC), Patta/Chitta, Field Measurement Book (FMB), Tax receipts, and Building approval records."
+    },
+    {
+      "question": "How can I verify the authenticity of a Sale Deed?",
+      "answer": "You can cross-check document details on the Tamil Nadu Registration portal or validate transactions through EC and Patta records."
+    },
+    {
+      "question": "What is the difference between Sale Deed and Agreement of Sale?",
+      "answer": "Agreement of Sale is a promise to sell without transfer of ownership, while Sale Deed transfers ownership legally upon registration."
+    },
+    {
+      "question": "Does JaaGa provide certified copies of Sale Deeds?",
+      "answer": "Yes. You can request certified copies which are retrieved from the respective SRO and provided digitally."
+    },
+    {
+      "question": "Does the Sale Deed include measurements or layout details?",
+      "answer": "It contains extent and boundary descriptions, but exact measurements require FMB or survey maps."
+    },
+    {
+      "question": "Is this service applicable to apartments and commercial properties?",
+      "answer": "Yes. Non-agricultural Sale Deeds cover plots, apartments, villas, and commercial properties."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All Sale Deed records are sourced directly from official Tamil Nadu government registration databases without modification."
+    }
+  ]
+}

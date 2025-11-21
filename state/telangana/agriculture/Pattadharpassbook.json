@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Pattadar Passbook?",
+      "answer": "A Pattadar Passbook is an official document that records ownership and land details for agricultural property, including survey numbers, extent, and landholder details."
+    },
+    {
+      "question": "What details are required to download a Pattadar Passbook through JaaGa?",
+      "answer": "You only need Village/Division, Survey Number, and Khata Number to download the passbook instantly."
+    },
+    {
+      "question": "Why is a Pattadar Passbook important?",
+      "answer": "It serves as proof of landholding and is used for agricultural loans, subsidies, crop insurance, mutation updates, and government schemes."
+    },
+    {
+      "question": "How does JaaGa fetch Pattadar Passbook details?",
+      "answer": "JaaGa retrieves records directly from official government land and revenue portals based on survey and khata information."
+    },
+    {
+      "question": "Is a Pattadar Passbook proof of ownership?",
+      "answer": "It validates landholder status, but the registered Sale Deed remains the primary legal proof of ownership."
+    },
+    {
+      "question": "Can I download a digital passbook through JaaGa?",
+      "answer": "Yes. If the records are available digitally, JaaGa provides instant access based on survey and village details."
+    },
+    {
+      "question": "What if the passbook data is incorrect?",
+      "answer": "You may need to request corrections through revenue authorities. JaaGa can assist with supporting records like EC, mutation status, and survey extracts."
+    },
+    {
+      "question": "Does the passbook show prohibited or assigned land status?",
+      "answer": "Not necessarily. A separate prohibited land check is required to confirm if land falls under restricted categories."
+    },
+    {
+      "question": "Is the data provided by JaaGa authentic?",
+      "answer": "Yes. All records are sourced from official government systems and are not altered or interpreted."
+    }
+  ]
+}

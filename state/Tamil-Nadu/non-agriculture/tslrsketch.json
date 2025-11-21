@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a TSLR Sketch?",
+      "answer": "A TSLR Sketch is a town survey mapping document that shows the location and subdivision layout of an urban land parcel within a municipal survey block."
+    },
+    {
+      "question": "Does a TSLR Sketch show measurements?",
+      "answer": "No. It shows plot location and subdivision mapping but does not include detailed boundary measurements or coordinates. For measurements, FMB or Tippon maps are required."
+    },
+    {
+      "question": "What is the use of a TSLR Sketch?",
+      "answer": "It helps verify plot location, check subdivision history, identify neighboring parcels, and support planning approval or document verification."
+    },
+    {
+      "question": "Is TSLR Sketch proof of ownership?",
+      "answer": "No. It only shows location. Ownership must be verified using Sale Deed, EC, and Patta/Mutation records."
+    },
+    {
+      "question": "What details are required to download a TSLR Sketch through JaaGa?",
+      "answer": "Typically required: Town/Division, Ward Name, Block, Town Survey Number, and Sub Division Number."
+    },
+    {
+      "question": "How does JaaGa fetch TSLR Sketch data?",
+      "answer": "JaaGa retrieves sketch records directly from government town survey and municipal databases based on survey and subdivision inputs."
+    },
+    {
+      "question": "Is the TSLR Sketch the same as a Town Survey Extract?",
+      "answer": "No. Extract contains textual survey information, whereas Sketch visually shows plot location on the town map."
+    },
+    {
+      "question": "Does the sketch show classification like government or assigned land?",
+      "answer": "It may show category markings, but classification should be verified separately through land classification records."
+    },
+    {
+      "question": "Can TSLR Sketch be used for building approvals?",
+      "answer": "It is used as a supporting document but may not be sufficient alone. Authorities may require FMB, Patta, Layout approval, and EC."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All sketches are sourced directly from official municipal and town survey portals without modification."
+    }
+  ]
+}

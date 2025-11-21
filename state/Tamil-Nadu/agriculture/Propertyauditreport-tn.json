@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Agricultural Property Audit Report?",
+      "answer": "It is a detailed verification report that checks ownership history, survey details, land classification, encumbrances, and mutation status for agricultural land."
+    },
+    {
+      "question": "What details are required to generate an agricultural audit report?",
+      "answer": "You need Village/Division, Survey Number, Khata Number, Document Number, and Registration Year."
+    },
+    {
+      "question": "What does the agricultural audit include?",
+      "answer": "Ownership chain, EC history, survey details, mutation status, land classification, prohibited land check, tax dues, and legal risk observations."
+    },
+    {
+      "question": "How long does it take to get the report?",
+      "answer": "The report is typically delivered within 1 working day depending on record availability."
+    },
+    {
+      "question": "Does the audit check prohibited or assigned land status?",
+      "answer": "Yes, the audit identifies categories such as assigned, endowment, ceiling surplus, government land, and other restricted classifications."
+    },
+    {
+      "question": "Does the audit verify survey boundaries?",
+      "answer": "It references survey records and linked maps, but exact measurements may require Tippon or FMB maps."
+    },
+    {
+      "question": "Does the report include ownership proof?",
+      "answer": "It verifies ownership through records, but legal ownership is confirmed through registered Sale Deeds and certified copies."
+    },
+    {
+      "question": "Can the report detect disputes or court cases?",
+      "answer": "It highlights registered encumbrances and risk indicators. Court cases may require separate legal searches."
+    },
+    {
+      "question": "Is this report valid for loan or legal submission?",
+      "answer": "It is used for due-diligence and verification. Certified documents may still be required for official submission."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All information is sourced directly from official registration, survey, and revenue portals without modification."
+    }
+  ]
+}

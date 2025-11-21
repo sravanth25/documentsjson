@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Tippon Map?",
+      "answer": "A Tippon Map is an official land boundary map that shows survey numbers, plot extent, subdivision markings, and geographical boundaries for agricultural land."
+    },
+    {
+      "question": "What details are required to download a Tippon Map through JaaGa?",
+      "answer": "You only need Village/Division, and Survey Number to download the Tippon Map instantly."
+    },
+    {
+      "question": "Why is a Tippon Map important?",
+      "answer": "It helps verify land boundaries, resolve disputes, confirm survey accuracy, apply for mutation, and validate land extent during purchase."
+    },
+    {
+      "question": "How does JaaGa fetch Tippon Maps?",
+      "answer": "JaaGa retrieves map records directly from official government survey and revenue portals based on survey numbers."
+    },
+    {
+      "question": "Is a Tippon Map proof of ownership?",
+      "answer": "No. It confirms boundaries and measurements, but the registered Sale Deed remains the primary proof of ownership."
+    },
+    {
+      "question": "Do Tippon Maps show land classification or usage?",
+      "answer": "They mainly show boundaries and survey details. Land classification (agricultural, wet, dry, etc.) may require additional records like Adangal/ROR."
+    },
+    {
+      "question": "Can Tippon Maps help with disputes?",
+      "answer": "Yes. They are widely used to resolve boundary conflicts, encroachments, and survey mismatches through legal and revenue processes."
+    },
+    {
+      "question": "What is the difference between Tippon Map and FMB?",
+      "answer": "Both relate to survey boundaries, but FMB provides finer cadastral-level measurements with coordinates, while Tippon Maps show broader plot layouts and extents."
+    },
+    {
+      "question": "Does Tippon Map show prohibited or assigned land status?",
+      "answer": "No. It only shows boundaries; classification or restrictions require a separate prohibited land check."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All maps are sourced from official government survey databases without modification."
+    }
+  ]
+}

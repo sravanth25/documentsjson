@@ -1,0 +1,52 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Sale Deed useful for?",
+      "answer": "A Sale Deed serves as legal proof of property ownership, confirms the transfer of rights from seller to buyer, and is required for resale, mutation, loans, property tax updates, and legal disputes."
+    },
+    {
+      "question": "How do I obtain a Certified Copy of a Sale Deed?",
+      "answer": "You can obtain a certified copy by applying through the respective state's Sub-Registrar Office (SRO) portal or through JaaGa by providing document details, after which we retrieve the certified copy on your behalf."
+    },
+    {
+      "question": "What documents should be verified along with a Sale Deed in Telangana?",
+      "answer": "Key documents include the Encumbrance Certificate (EC), Market Value Certificate, Mutation/Khata records, Survey details, Tax receipts, and prohibited land status."
+    },
+    {
+      "question": "What are the uses of a certified copy of the Sale Deed?",
+      "answer": "Certified copies are used when the original is lost, for legal disputes, property loans, mutation updates, resale, and document submissions to government authorities."
+    },
+    {
+      "question": "What is the difference between Agreement of Sale and Sale Deed?",
+      "answer": "Agreement of Sale is a contract to sell property in the future and does not transfer ownership, while Sale Deed transfers ownership and is legally registered to complete the sale."
+    },
+    {
+      "question": "What is the difference between Stamp Duty and Market Value?",
+      "answer": "Market Value is the government-assessed value of the property. Stamp Duty is the tax paid during registration based on market value or transaction value, whichever is higher."
+    },
+    {
+      "question": "How much time does it take to obtain a certified copy of a Sale Deed?",
+      "answer": "Typically within 1 working days, depending on portal availability and jurisdiction."
+    },
+    {
+      "question": "How can I verify the authenticity of a Sale Deed?",
+      "answer": "You can verify by cross-checking registration details on state SRO portals, matching EC history, verifying mutation status, and checking for mortgages or disputes through government portals."
+    },
+    {
+      "question": "Can I get a certified copy of the deed online?",
+      "answer": "Yes, certified copies can be requested online for most states. JaaGa can retrieve and deliver the document digitally."
+    },
+    {
+      "question": "What are the fees for obtaining a Sale Deed certified copy in Telangana?",
+      "answer": "Fees vary based on jurisdiction and pages. Standard SRO portal charges apply, along with service fees if retrieved through JaaGa."
+    },
+    {
+      "question": "What details are required to download the document?",
+      "answer": "Generally required: Document Number, Registration Year, SRO, and optionally Buyer/Seller name for validation."
+    },
+    {
+      "question": "Is the data available on JaaGa authentic?",
+      "answer": "Yes. All data is sourced from official government portals and SRO records. JaaGa does not alter or modify government documents."
+    }
+  ]
+}

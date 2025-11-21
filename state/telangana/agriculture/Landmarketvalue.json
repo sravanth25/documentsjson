@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Agricultural Land Market Value?",
+      "answer": "It is the government-assessed valuation of agricultural land used to calculate stamp duty, registration charges, and legal valuation during land transactions."
+    },
+    {
+      "question": "Is market value the same as selling price?",
+      "answer": "No. Market value is a government benchmark, while selling price depends on negotiations, location, and land productivity."
+    },
+    {
+      "question": "What details are needed to fetch the agricultural market value?",
+      "answer": "You only need the Village or Division & Survey No details to fetch government market value through JaaGa."
+    },
+    {
+      "question": "How does JaaGa fetch market value?",
+      "answer": "JaaGa retrieves values directly from official government valuation registers and state registration portals."
+    },
+    {
+      "question": "Does market value include crop value or only land value?",
+      "answer": "Market value applies to land valuation; crop yield or agricultural income is not included in government valuation."
+    },
+    {
+      "question": "Does agricultural land have different valuation compared to non-agricultural property?",
+      "answer": "Yes. Agricultural land often has separate valuation slabs based on soil type, irrigation status, and land classification."
+    },
+    {
+      "question": "Is market value legally binding?",
+      "answer": "Yes, for calculating stamp duty and registration charges, but not for private sale pricing or loan valuation."
+    },
+    {
+      "question": "Can market value affect home or farm loans?",
+      "answer": "Banks may consider government market value along with independent land valuation reports before sanctioning loans."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All values are sourced directly from official state valuation systems without alteration."
+    }
+  ]
+}

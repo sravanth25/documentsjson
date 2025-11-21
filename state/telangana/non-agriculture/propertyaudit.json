@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Property Audit Report?",
+      "answer": "A Property Audit Report is a detailed verification report that checks ownership, past transactions, encumbrances, prohibited status, mutation status, tax records, and legal risks using official government data and SRO records."
+    },
+    {
+      "question": "Why is a Property Audit Report necessary?",
+      "answer": "It helps identify disputes, fraudulent ownership claims, double registrations, missing mutations, mortgages, and title risks before buying or selling a property."
+    },
+    {
+      "question": "What details are required to start the audit?",
+      "answer": "Details vary based on property type:\nFor Non-Agricultural Properties: SRO, Document Number, Registration Year, PTIN, USN.\nFor Agricultural Properties: Village/Division, Survey Number, Khata Number, Document Number, Registration Year."
+    },
+    {
+      "question": "How long does the audit take?",
+      "answer": "The Property Audit Report is typically delivered within 1 working day, depending on data availability and verification complexity."
+    },
+    {
+      "question": "How does JaaGa verify the property details?",
+      "answer": "Verification is done through multiple sources including SRO portals, Encumbrance Certificates, survey/revenue portals, tax records, CERSAI, RERA, and historical registration documents, validated with AI-based document checks."
+    },
+    {
+      "question": "What will I receive in the final audit report?",
+      "answer": "You receive ownership history, EC data, tax & mutation status, mortgage/prohibited land checks, legal observations, and a summary of risks with recommended next steps."
+    },
+    {
+      "question": "Is the audit legally valid?",
+      "answer": "Yes. All data is sourced from authorized government records and portals, but the report serves as a due-diligence assessment and does not replace certified copies or legal representation."
+    },
+    {
+      "question": "What happens if issues are found in the report?",
+      "answer": "We highlight risks and provide guidance on resolving them, such as mutation updates, clearance of encumbrances, title corrections, and legal advisory options."
+    },
+    {
+      "question": "Does JaaGa help with post-audit services?",
+      "answer": "Yes. You can request follow-up services such as certified copy retrieval, mutation assistance, survey requests, legal documentation and representation."
+    },
+    {
+      "question": "How much does the Property Audit Report cost?",
+      "answer": "Pricing varies based on state, complexity, and number of documents. Standard audits start from ₹1,499 onwards."
+    }
+  ]
+}

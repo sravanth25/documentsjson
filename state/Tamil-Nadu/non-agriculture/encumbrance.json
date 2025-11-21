@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Encumbrance Certificate (EC) in Tamil Nadu?",
+      "answer": "An EC shows the registered transaction history of a property, including sales, mortgages, cancellations, and claims recorded at the Sub-Registrar Office."
+    },
+    {
+      "question": "Why is an EC important in Tamil Nadu?",
+      "answer": "It helps confirm whether the property has a clear title and if there are any registered financial liabilities, mortgages, or ownership claims before purchase."
+    },
+    {
+      "question": "What details are required to download the EC?",
+      "answer": "You only need the SRO, Document Number, and Registration Year to download the EC through JaaGa."
+    },
+    {
+      "question": "Is the EC obtained through JaaGa legally valid?",
+      "answer": "The EC downloaded is valid for verification. For official submissions like banks or courts, a certified copy can be requested through JaaGa."
+    },
+    {
+      "question": "Does EC show property disputes or court cases?",
+      "answer": "EC shows registered encumbrances like mortgages or deeds, but court cases or unregistered disputes may not appear and require separate checks."
+    },
+    {
+      "question": "Does EC show Patta or land classification?",
+      "answer": "No. EC only reflects registered transactions. Patta/Chitta records must be checked separately for land type and ownership details."
+    },
+    {
+      "question": "How does JaaGa fetch EC records?",
+      "answer": "JaaGa retrieves data directly from the Tamil Nadu Registration Department database based on document details."
+    },
+    {
+      "question": "Is EC enough to confirm ownership?",
+      "answer": "EC verifies transaction history but does not replace ownership documents like a registered Sale Deed or Patta records."
+    },
+    {
+      "question": "Is EC required during property purchase?",
+      "answer": "Yes. EC is mandatory to verify title, especially before registration, resale, or loan processing."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All EC data is sourced directly from official government portals without modification."
+    }
+  ]
+}

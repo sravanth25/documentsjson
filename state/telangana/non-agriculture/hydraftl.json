@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What are Hydra / FTL maps?",
+      "answer": "Hydra and FTL maps show water body boundaries, lake extents, feeder channels, and buffer zones to identify construction-restricted regions."
+    },
+    {
+      "question": "Why are Hydra / FTL checks important?",
+      "answer": "They help ensure a property is not located on lake beds, water channels, or protected zones that may lead to demolition, legal disputes, or denied approvals."
+    },
+    {
+      "question": "What details are required to check Hydra / FTL data?",
+      "answer": "Only the Village or Division details (and optionally survey/location details for precision)."
+    },
+    {
+      "question": "Does falling in FTL mean construction is banned?",
+      "answer": "Yes. Construction on lake beds or inside FTL zones is typically prohibited unless government-approved exceptions exist."
+    },
+    {
+      "question": "What is the difference between FTL and buffer zone?",
+      "answer": "FTL refers to the maximum water spread level of a lake, while buffer zones are regulated margins outside the water body for protection and flood safety."
+    },
+    {
+      "question": "Can a property be legally registered if it falls under FTL?",
+      "answer": "Registration may still occur, but construction permissions and development approvals can be denied or challenged."
+    },
+    {
+      "question": "How does JaaGa verify Hydra / FTL status?",
+      "answer": "JaaGa cross-references government hydrology datasets, lake maps, planning boundaries, and GIS overlays for accurate validation."
+    },
+    {
+      "question": "Is Hydra / FTL the same as prohibited land?",
+      "answer": "No. Hydra/FTL relates to water-body regulated zones. Prohibited land refers to assigned, government, temple, forest or legally restricted land."
+    },
+    {
+      "question": "Is Hydra / FTL proof of ownership?",
+      "answer": "No. It only indicates water-body classification. Ownership proof comes from Sale Deeds and registration records."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All classifications are sourced from official planning bodies and publicly available hydrology datasets."
+    }
+  ]
+}

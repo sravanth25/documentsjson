@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Adangal?",
+      "answer": "Adangal is an agricultural land record showing cultivation details, land usage type, crops grown, extent, and revenue entries maintained by revenue authorities."
+    },
+    {
+      "question": "What is ROR-1B?",
+      "answer": "ROR-1B (Record of Rights) shows legal ownership details, survey numbers, classification, and khata information for agricultural land."
+    },
+    {
+      "question": "What is the difference between Adangal and ROR-1B?",
+      "answer": "Adangal contains cultivation and crop details, while ROR-1B contains ownership and legal land records."
+    },
+    {
+      "question": "What details are required to download Adangal / ROR-1B through JaaGa?",
+      "answer": "You only need Village/Division, Survey Number, and Khata Number to download instantly."
+    },
+    {
+      "question": "Why are Adangal and ROR-1B important?",
+      "answer": "They help verify land ownership, crop patterns, eligibility for agricultural benefits, mutation status, and land classification before purchase."
+    },
+    {
+      "question": "How does JaaGa fetch Adangal / ROR-1B records?",
+      "answer": "JaaGa retrieves records directly from government land and revenue portals based on survey and khata details."
+    },
+    {
+      "question": "Does Adangal / ROR-1B prove legal ownership?",
+      "answer": "They support ownership verification, but the registered Sale Deed is the primary legal proof of ownership."
+    },
+    {
+      "question": "Do these records show restricted or prohibited land classification?",
+      "answer": "They may show land classification, but prohibited or assigned land requires a separate verification."
+    },
+    {
+      "question": "Can JaaGa provide historical records?",
+      "answer": "Yes, if historical entries are available digitally, JaaGa can retrieve them."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All records are fetched directly from official government sources without modification."
+    }
+  ]
+}

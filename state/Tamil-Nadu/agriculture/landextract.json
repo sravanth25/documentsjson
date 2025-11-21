@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Land Record / Register Extract?",
+      "answer": "It is an official revenue record that provides survey, subdivision, and land classification details for a parcel of land in Tamil Nadu."
+    },
+    {
+      "question": "Why is Land Type required to fetch the Register Extract?",
+      "answer": "Land Type helps retrieve the correct record from revenue databases, especially when multiple survey entries exist under the same number."
+    },
+    {
+      "question": "What details are required to download the extract through JaaGa?",
+      "answer": "Village/Division, Land Type, Survey Number, and Sub Division Number."
+    },
+    {
+      "question": "Does Register Extract prove ownership?",
+      "answer": "No. It supports verification but ownership is confirmed through the registered Sale Deed and Patta/Chitta records."
+    },
+    {
+      "question": "Does the extract show survey boundaries?",
+      "answer": "It shows subdivision identifiers but not detailed measurements. FMB or Tippon maps are required for boundary dimensions."
+    },
+    {
+      "question": "Is this extract required for mutation and revenue updates?",
+      "answer": "Yes, it is commonly used for supporting land updates, tax verification, and documentation at revenue offices."
+    },
+    {
+      "question": "Does the extract show if land is government or assigned land?",
+      "answer": "It may indicate classification, but restricted or prohibited status requires a separate verification report."
+    },
+    {
+      "question": "Is the extract useful for approvals or development?",
+      "answer": "It helps validate land details, but planning approvals require additional documents like Patta, layout approvals, and EC."
+    },
+    {
+      "question": "Is this extract different from Patta or Chitta?",
+      "answer": "Yes. Patta shows ownership and revenue standing, while Register Extract provides land classification and survey details."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from official Tamil Nadu government land portals without modification."
+    }
+  ]
+}

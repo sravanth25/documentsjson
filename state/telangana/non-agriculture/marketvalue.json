@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Market Value?",
+      "answer": "Market Value is the government-assessed value of a property used to determine stamp duty and registration charges during transactions."
+    },
+    {
+      "question": "Is market value the same as selling price?",
+      "answer": "No. Market value is a government benchmark, whereas selling price is mutually agreed upon between buyer and seller."
+    },
+    {
+      "question": "What details are required to fetch market value?",
+      "answer": "You only need the Village or Division details to fetch the market value through JaaGa."
+    },
+    {
+      "question": "How does JaaGa fetch market value?",
+      "answer": "JaaGa retrieves the latest values directly from official state valuation registers and government portals using location-based lookup."
+    },
+    {
+      "question": "Why is market value important?",
+      "answer": "It is required to calculate stamp duty, estimate registration charges, evaluate property taxes, and verify legal valuation before purchase."
+    },
+    {
+      "question": "Does market value vary by property type?",
+      "answer": "Yes. Values differ based on plot type, usage category (residential, commercial, agricultural), and location classifications."
+    },
+    {
+      "question": "Does market value include both land and building?",
+      "answer": "It may include both land and constructed value based on state rules. Some regions provide separate land and structure values."
+    },
+    {
+      "question": "Is market value legally binding?",
+      "answer": "Yes for stamp duty calculations, but buyers and sellers may transact at higher or competitive prices based on market conditions."
+    },
+    {
+      "question": "Is market value the same across all states?",
+      "answer": "No. Each state maintains its own valuation system and rate slabs depending on jurisdiction and property classification."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All values are sourced directly from official government valuation portals without alteration."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Mutation Certificate?",
+      "answer": "A Mutation Certificate is an official record that updates property ownership details in government land or municipal records after a transfer through sale, inheritance, gift, or registration."
+    },
+    {
+      "question": "Why is mutation required if I already have a Sale Deed?",
+      "answer": "A Sale Deed transfers ownership legally, but mutation updates the government records for tax assessment, property identification, and administrative purposes."
+    },
+    {
+      "question": "When is mutation needed?",
+      "answer": "Mutation is required after events like property sale, gift deed, inheritance, partition, court orders, or transfer of title due to succession."
+    },
+    {
+      "question": "What documents are needed for mutation?",
+      "answer": "Typically required: Sale Deed/Registered document number, EC, Tax receipts, ID proof, and Application form. Requirements may vary by jurisdiction."
+    },
+    {
+      "question": "How do I apply for mutation through JaaGa?",
+      "answer": "Provide document details and ownership information, and JaaGa will file the mutation request, track progress, and deliver approval records once updated."
+    },
+    {
+      "question": "How long does mutation take?",
+      "answer": "Timelines vary by municipality and state; typically 7–30 working days depending on verification and pending documentation."
+    },
+    {
+      "question": "How can I verify if my property mutation is completed?",
+      "answer": "You can check status on official revenue/municipal portals or request verification through JaaGa, which cross-checks records and provides confirmation."
+    },
+    {
+      "question": "What happens if mutation is not done?",
+      "answer": "The property may still be legally yours, but revenue records may not reflect the new ownership, affecting tax payments, government benefits, resale, and dispute claims."
+    },
+    {
+      "question": "Is mutation proof of ownership?",
+      "answer": "Mutation is an administrative record, not legal title proof. The registered sale deed remains the primary ownership proof."
+    }
+  ]
+}

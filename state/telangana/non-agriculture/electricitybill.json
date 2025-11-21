@@ -1,0 +1,32 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Electricity Bill?",
+      "answer": "An electricity bill is a government-issued statement showing consumption units, charges, and connection details for a property."
+    },
+    {
+      "question": "Why is an electricity bill important?",
+      "answer": "It helps verify property usage, consumer details, pending dues, address proof, and supports loan, rental, and transaction requirements."
+    },
+    {
+      "question": "What details are required to download the electricity bill?",
+      "answer": "You only need the USN Number to download the bill from JaaGa."
+    },
+    {
+      "question": "Can I download electricity bills through JaaGa?",
+      "answer": "Yes, JaaGa retrieves current and past bills directly from official electricity department portals."
+    },
+    {
+      "question": "Can I check pending dues using the bill?",
+      "answer": "Yes, the bill shows outstanding balances, disconnection notices, and previous dues if applicable."
+    },
+    {
+      "question": "Is the electricity bill proof of ownership?",
+      "answer": "It supports ownership or occupancy but does not replace legal title documents like a Sale Deed or Mutation Certificate."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes, all bills are sourced directly from official DISCOM portals without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Village Map?",
+      "answer": "A Village Map shows the overall layout of an entire village, including survey numbers, public land, roads, lakes, and parcel boundaries."
+    },
+    {
+      "question": "What is a Survey Map?",
+      "answer": "A Survey Map shows the location of a specific survey number on the village layout and helps identify the placement of land on the map. It does not include measurement details."
+    },
+    {
+      "question": "Do Survey Maps provide land measurements or boundaries?",
+      "answer": "No. Survey Maps provide location-based mapping only. For measurements, coordinates, and boundary precision, FMB or Tippon maps are required."
+    },
+    {
+      "question": "What details are required to download Village & Survey Maps through JaaGa?",
+      "answer": "You only need Village/Division, and Survey Number, to download maps instantly."
+    },
+    {
+      "question": "Why are Village & Survey Maps useful?",
+      "answer": "They help identify land location, verify plot placement, detect encroachment visually, and confirm village-level mapping before purchase or documentation."
+    },
+    {
+      "question": "How does JaaGa fetch these maps?",
+      "answer": "Maps are retrieved from official government land and revenue portals based on survey and village details."
+    },
+    {
+      "question": "Are these maps proof of ownership?",
+      "answer": "No. They only show location. The Sale Deed and mutation records are required for legal ownership proof."
+    },
+    {
+      "question": "Do these maps show prohibited or assigned land details?",
+      "answer": "Not necessarily. They show location, but classification requires a separate prohibited land verification."
+    },
+    {
+      "question": "Is this the same as FMB or Tippon maps?",
+      "answer": "No. FMB/Tippon maps provide measurement-level cadastral records; Survey Maps only show location on the village map."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All maps are sourced directly from government survey and revenue systems without modification."
+    }
+  ]
+}

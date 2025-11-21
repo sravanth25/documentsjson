@@ -1,0 +1,36 @@
+{
+  "FAQ": [
+    {
+      "question": "Does an agricultural Sale Deed confirm if land is cultivable?",
+      "answer": "It records land extent and survey information but not soil quality or cultivation feasibility. Those details require agricultural land records or soil reports."
+    },
+    {
+      "question": "Does a Sale Deed indicate if land can be converted to non-agricultural use?",
+      "answer": "No. Conversion eligibility depends on zoning, revenue classification, and approvals from competent authorities."
+    },
+    {
+      "question": "Can a Sale Deed specify irrigation or water access rights?",
+      "answer": "Only if such rights are legally documented and registered. Otherwise, they must be verified separately."
+    },
+    {
+      "question": "Does the agricultural Sale Deed list multiple survey sub-divisions?",
+      "answer": "Yes, agricultural Sale Deeds may include multiple survey numbers or sub-divisions when land is fragmented or consolidated."
+    },
+    {
+      "question": "Can joint ownership be registered on an agricultural Sale Deed?",
+      "answer": "Yes. Multiple owners can be registered, and proportions are explicitly mentioned in the document."
+    },
+    {
+      "question": "Does the Sale Deed mention crop history?",
+      "answer": "No. Crop or usage history must be verified via Adangal/ROR-1B or revenue records."
+    },
+    {
+      "question": "Is buyer eligibility checked for agricultural land purchases?",
+      "answer": "In some states, only agriculturists or specific categories are allowed to purchase farmland. Compliance must be checked before registration."
+    },
+    {
+      "question": "Does the Sale Deed automatically update mutation records?",
+      "answer": "No. Mutation must be applied separately with revenue authorities after registration."
+    }
+  ]
+}
