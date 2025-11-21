@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Does the agricultural audit include soil or crop history?",
+      "answer": "No. The audit verifies legal and registration records. Soil and crop data require agricultural surveys or lab reports."
+    },
+    {
+      "question": "Does the audit help determine if land can be converted to non-agriculture use?",
+      "answer": "It highlights classification and legal restrictions. Conversion approval must be checked with planning authorities separately."
+    },
+    {
+      "question": "Does the report verify irrigation access or borewell legality?",
+      "answer": "It may show water source classification, but specific irrigation permissions require department verification."
+    },
+    {
+      "question": "Does the audit detect overlapping survey boundaries?",
+      "answer": "It identifies discrepancies, but precise boundary verification requires FMB, Tippon maps, or on-ground survey."
+    },
+    {
+      "question": "Does the audit cover ancestral or inherited land?",
+      "answer": "Yes, as long as records exist in revenue and registration systems. Some older records may need manual tracing."
+    },
+    {
+      "question": "Does the audit verify whether land is eligible for government subsidy or farming schemes?",
+      "answer": "It verifies classification; scheme eligibility must be checked separately based on state policies."
+    },
+    {
+      "question": "Does the audit show fragmentation or sub-division history?",
+      "answer": "Yes. It includes subdivision references if recorded in survey or revenue systems."
+    },
+    {
+      "question": "Is the audit required before leasing agricultural land?",
+      "answer": "Yes. It helps confirm legal title and ensure the land isn't disputed or restricted."
+    },
+    {
+      "question": "Does the report verify ownership for inheritance or family partition?",
+      "answer": "It validates revenue and registration entries, but legal partition requires supporting documents."
+    },
+    {
+      "question": "Is the audit approved for legal proceedings?",
+      "answer": "The report is for due diligence. Certified records may be required for court submissions."
+    }
+  ]
+}

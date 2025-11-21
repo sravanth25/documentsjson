@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does an agricultural EC show in AP?",
+      "answer": "It shows registered transactions such as sales, mortgages, releases, and cancellations related to agricultural land in the specified jurisdiction."
+    },
+    {
+      "question": "Does EC confirm whether the land is cultivable or agriculture-type?",
+      "answer": "No. EC shows transaction history. Land use and classification must be checked through Adangal, ROR, or revenue records."
+    },
+    {
+      "question": "Can EC detect unregistered land transfers?",
+      "answer": "No. Private agreements, inherited transfers, or informal deals do not appear unless legally registered."
+    },
+    {
+      "question": "Does EC show restrictions like assigned or government land?",
+      "answer": "Not necessarily. Prohibited classifications require a land classification check or audit report."
+    },
+    {
+      "question": "Is EC required for agricultural land loans in Andhra Pradesh?",
+      "answer": "Yes. Banks require EC to verify past mortgages or legal liabilities before approving loans."
+    },
+    {
+      "question": "Does EC show subdivision records for large survey plots?",
+      "answer": "If divisions are registered, yes. If subdivisions are only revenue updates, additional survey records are needed."
+    },
+    {
+      "question": "Is EC sufficient to confirm ownership?",
+      "answer": "No. It confirms transactional history but ownership must be verified via Sale Deed and mutation."
+    },
+    {
+      "question": "Does EC show irrigation or borewell rights?",
+      "answer": "Only if rights were registered legally. Revenue or irrigation department records may be required separately."
+    },
+    {
+      "question": "How far back does an agricultural EC go?",
+      "answer": "Digital EC covers available online years. Older entries may require manual SRO archive requests."
+    },
+    {
+      "question": "Is EC from JaaGa authentic?",
+      "answer": "Yes. All EC data is pulled directly from official AP government registration systems without modification."
+    }
+  ]
+}

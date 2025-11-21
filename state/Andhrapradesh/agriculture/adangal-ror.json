@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does Adangal contain?",
+      "answer": "It includes crop type, agricultural usage, irrigation source, soil type, extent, cultivation nature, and seasonal farming details."
+    },
+    {
+      "question": "What details are required to download Adangal through JaaGa?",
+      "answer": "You need Village/Division and Survey Number. Khata Number may be required for precise matching."
+    },
+    {
+      "question": "How is Adangal different from Pattadar Passbook?",
+      "answer": "Adangal focuses on cultivation details and land usage, while Pattadar Passbook shows ownership and revenue classification."
+    },
+    {
+      "question": "Does Adangal show the property's legal ownership?",
+      "answer": "Not fully. It indicates cultivator details and usage, but legal ownership must be verified through Sale Deed and mutation."
+    },
+    {
+      "question": "Does Adangal help verify eligibility for government farming schemes?",
+      "answer": "Yes. It is commonly used to prove cultivation status for subsidies, crop insurance, and support schemes."
+    },
+    {
+      "question": "Can Adangal show multiple crops for the same land?",
+      "answer": "Yes. It may list crop patterns by season or cycle, depending on recorded updates."
+    },
+    {
+      "question": "Does Adangal include water rights or irrigation permissions?",
+      "answer": "It lists irrigation sources, but legal rights may need verification through irrigation department records."
+    },
+    {
+      "question": "Is Adangal enough to resolve land disputes?",
+      "answer": "It supports cultivation claims but legal disputes require registered documents, EC, and certified survey records."
+    },
+    {
+      "question": "Does Adangal apply to non-agricultural land?",
+      "answer": "No. It is strictly for agricultural and cultivation-based land records."
+    },
+    {
+      "question": "Is the Adangal downloaded from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from official Andhra Pradesh government land and revenue databases without modification."
+    }
+  ]
+}

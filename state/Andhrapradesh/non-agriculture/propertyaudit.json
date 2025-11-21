@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a non-agricultural property audit include in Andhra Pradesh?",
+      "answer": "It includes ownership verification, EC history, municipal tax records, building approvals, layout validation, encumbrance checks, and legal observations."
+    },
+    {
+      "question": "Does the audit check if the layout is approved by CRDA or other authorities?",
+      "answer": "Yes. The report checks approval status where available and flags unapproved or irregular layouts."
+    },
+    {
+      "question": "Does the report verify municipal tax dues?",
+      "answer": "Yes. It includes tax payment status, arrears, assessment ID linkage, and compliance status where accessible."
+    },
+    {
+      "question": "Does the audit help verify apartment or commercial buildings?",
+      "answer": "Yes. It includes validation of project approvals, linked units, and registration details where records exist."
+    },
+    {
+      "question": "Does the audit check land zone or land-use category?",
+      "answer": "Yes. It includes zone indicators based on planning body records where available but may require separate certified checks."
+    },
+    {
+      "question": "Can this detect previous mortgage or loan entries?",
+      "answer": "Yes. Registered loan or mortgage entries appear through EC and linked registration records when available."
+    },
+    {
+      "question": "Is this report required before applying for a loan?",
+      "answer": "Yes. Banks often require due-diligence reports along with certified copies and EC proof."
+    },
+    {
+      "question": "Is the audit valid for registration or legal disputes?",
+      "answer": "It is used for verification. For legal proceedings, certified documents and legal filings may be required."
+    },
+    {
+      "question": "Does the audit confirm encumbrance clearance?",
+      "answer": "It identifies registered encumbrances, but manual checks may be required for unregistered or private disputes."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All records are fetched from AP government registration, municipal, and planning authority portals without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What types of land are considered prohibited in Andhra Pradesh?",
+      "answer": "Examples include assigned land, government poramboke land, endowment/temple land, forest land, ceiling surplus land, tribal land, and land reserved for public use."
+    },
+    {
+      "question": "What details are required to check prohibited land status through JaaGa?",
+      "answer": "You only need Village/Division and Survey Number to identify whether the land is restricted."
+    },
+    {
+      "question": "Does prohibited land appear in the Encumbrance Certificate?",
+      "answer": "Not always. EC shows registered transactions, while prohibitions are classification-based and must be verified through revenue data."
+    },
+    {
+      "question": "Can prohibited land be transferred or regularized in AP?",
+      "answer": "In some cases, land may be regularized based on state policies, but assigned and endowment lands generally cannot be sold or registered."
+    },
+    {
+      "question": "Does prohibited status apply to agricultural and non-agricultural land?",
+      "answer": "Yes. Restrictions apply based on classification and jurisdiction, regardless of land usage type."
+    },
+    {
+      "question": "Does prohibited land affect bank loans?",
+      "answer": "Yes. Banks typically reject loans on prohibited land since ownership and transfer rights are restricted."
+    },
+    {
+      "question": "Does the check verify if land belongs to tribal or scheduled areas?",
+      "answer": "It flags classifications where available, but tribal land-specific restrictions may require additional verification."
+    },
+    {
+      "question": "Will prohibited land always be classified online?",
+      "answer": "Most classifications are digital, but older records may require manual inspection from revenue offices."
+    },
+    {
+      "question": "Does the prohibited status show measurement or survey details?",
+      "answer": "No. It only identifies restriction category. Survey measurements require FMB or ground survey."
+    },
+    {
+      "question": "Is prohibited land status from JaaGa authentic?",
+      "answer": "Yes. All classifications are sourced directly from Andhra Pradesh government land and revenue portals without modification."
+    }
+  ]
+}

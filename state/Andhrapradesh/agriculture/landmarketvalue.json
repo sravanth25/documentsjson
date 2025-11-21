@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "How is market value calculated in Andhra Pradesh?",
+      "answer": "It is based on recent sales, locality demand, infrastructure development, zoning, property type, and nearby patterns of real transactions."
+    },
+    {
+      "question": "Do I need survey details to fetch market value?",
+      "answer": "No. You can get location-based market value using just the Village/Division. Precise parcel valuation may require survey-level details."
+    },
+    {
+      "question": "Is market value the same as guideline or basic value?",
+      "answer": "No. Guideline value is government-fixed for registration; market value reflects actual selling price."
+    },
+    {
+      "question": "Does market value change based on development projects?",
+      "answer": "Yes. New highways, layouts, industrial zones, or township approvals can significantly increase market value."
+    },
+    {
+      "question": "Is market value needed for resale pricing?",
+      "answer": "Yes. It helps set realistic selling prices and evaluate appreciation over time."
+    },
+    {
+      "question": "Does market value differ for agriculture and non-agricultural land?",
+      "answer": "Yes. Agriculture land depends on soil, irrigation, and farming potential, while non-agri depends on urbanization, commercial demand, and zoning."
+    },
+    {
+      "question": "Can market value be used for bank loan estimation?",
+      "answer": "Banks consider market value but may sanction loans based on internal valuation or guideline value, whichever is lower."
+    },
+    {
+      "question": "Does market value confirm ownership or legality?",
+      "answer": "No. It is a pricing indicator. Ownership and legality must be verified via Sale Deed, EC, and mutation records."
+    },
+    {
+      "question": "Will market value differ within the same village?",
+      "answer": "Yes. Values may differ based on road access, plot shape, frontage, zoning, and distance from main layouts."
+    },
+    {
+      "question": "Is market value data from JaaGa authentic?",
+      "answer": "Yes. Values are based on verified transaction sources, government records, and official valuation datasets."
+    }
+  ]
+}

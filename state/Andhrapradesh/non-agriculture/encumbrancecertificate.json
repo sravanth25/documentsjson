@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What information does an Encumbrance Certificate show?",
+      "answer": "It shows registered property transactions such as sales, loans, mortgages, leases, release deeds, and cancellations recorded in the SRO."
+    },
+    {
+      "question": "Why is Document Type required for an EC search?",
+      "answer": "Document Type helps narrow the search to the correct registered entry when multiple records exist under similar document numbers."
+    },
+    {
+      "question": "Does EC show transactions that are still under process?",
+      "answer": "No. Only transactions that have been fully registered and updated in SRO records will appear."
+    },
+    {
+      "question": "Can EC track transactions before digital records started?",
+      "answer": "Digital ECs cover online records. Older or manual records may require physical archive requests at the SRO."
+    },
+    {
+      "question": "Does EC show legal disputes or court cases?",
+      "answer": "Only if registered as encumbrances. Court cases without registration may not appear and require separate litigation checks."
+    },
+    {
+      "question": "Does the EC confirm whether the seller is the real owner?",
+      "answer": "It confirms transaction history, but ownership must be verified through the Sale Deed and supporting documents."
+    },
+    {
+      "question": "Is EC mandatory before loan or registration?",
+      "answer": "Yes. Banks and registration authorities typically require EC to verify clear title before approving loans or transfers."
+    },
+    {
+      "question": "Does EC include land classification or zoning?",
+      "answer": "No. EC only lists transactions; land classification must be checked through revenue and planning records."
+    },
+    {
+      "question": "Can EC show multiple owners or joint ownership?",
+      "answer": "Yes, if the transaction is registered with multiple name entries in the respective deed."
+    },
+    {
+      "question": "Is EC from JaaGa authentic?",
+      "answer": "Yes, all EC records are fetched directly from official government registration portals without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an SRO?",
+      "answer": "An SRO is the Sub-Registrar Office where property documents are legally registered and maintained for a specific jurisdiction."
+    },
+    {
+      "question": "Why do I need to know my SRO?",
+      "answer": "You must know the correct SRO to download ECs, obtain certified copies, verify transactions, and register property documents legally."
+    },
+    {
+      "question": "What details are required to find the SRO through JaaGa?",
+      "answer": "You only need Village/Division details to identify the correct Sub-Registrar Office."
+    },
+    {
+      "question": "Does one SRO cover multiple villages?",
+      "answer": "Yes. Each SRO covers a cluster of villages or localities based on jurisdiction boundaries."
+    },
+    {
+      "question": "Can an SRO change after urban expansion or re-mapping?",
+      "answer": "Yes. Jurisdiction boundaries may change due to municipal upgrades, district changes, or administrative restructuring."
+    },
+    {
+      "question": "Is SRO the same for agricultural and non-agricultural land?",
+      "answer": "Usually yes, but some regions maintain separate jurisdiction for urban and rural records."
+    },
+    {
+      "question": "Can I download EC without knowing SRO?",
+      "answer": "In most cases, EC requires SRO selection. Knowing the correct SRO ensures accurate search results."
+    },
+    {
+      "question": "Is the SRO related to mutation or property tax offices?",
+      "answer": "No. Mutation is handled by revenue authorities and tax by municipalities. SRO is strictly for registration records."
+    },
+    {
+      "question": "Is the SRO the same place where I get certified copies?",
+      "answer": "Yes. Certified copies are issued by the SRO where the document was originally registered."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. SRO jurisdiction data is sourced directly from official government registration sources without modification."
+    }
+  ]
+}

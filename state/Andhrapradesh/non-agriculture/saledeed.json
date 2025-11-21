@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is SRO required for fetching a Sale Deed?",
+      "answer": "Each document is registered at a specific SRO. Selecting the correct office ensures the record is located accurately from the source database."
+    },
+    {
+      "question": "Can a non-agricultural Sale Deed cover multiple plot numbers?",
+      "answer": "Yes, commercial or layout properties may include multiple plot numbers or units within the same document."
+    },
+    {
+      "question": "Does a Sale Deed confirm building approvals?",
+      "answer": "No. The Sale Deed confirms ownership transfer, but building approval must be verified separately through planning authorities."
+    },
+    {
+      "question": "Is the Sale Deed enough for resale or loan processing?",
+      "answer": "It is required, but banks may also request EC history, tax receipts, layout approvals, and identity documents."
+    },
+    {
+      "question": "Does a Sale Deed include apartment allocation details like flat number or block?",
+      "answer": "Yes, if registered properly. It will mention unit identification, but project approvals must be verified separately."
+    },
+    {
+      "question": "Does the Sale Deed show previous ownership details?",
+      "answer": "It lists parties involved in that specific transaction. Full history requires Encumbrance Certificate or audit reports."
+    },
+    {
+      "question": "Can a Sale Deed be revised if there is a mistake?",
+      "answer": "Yes. Errors can be corrected through a Rectification Deed, which must be registered again at the SRO."
+    },
+    {
+      "question": "Does the Sale Deed specify land classification like residential or commercial?",
+      "answer": "It may mention usage, but planning/zoning classification must be checked with municipal or planning authorities."
+    },
+    {
+      "question": "Is this document valid as court evidence?",
+      "answer": "Yes, but certified copies may be required for legal proceedings instead of normal digital copies."
+    },
+    {
+      "question": "Is the Sale Deed downloaded through JaaGa authentic?",
+      "answer": "Yes. All Sale Deeds are sourced directly from official government registration systems without modification."
+    }
+  ]
+}

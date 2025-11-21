@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does an EC show in Kerala?",
+      "answer": "An EC shows registered transactions such as sales, mortgages, leases, releases, and cancellations recorded at the respective SRO."
+    },
+    {
+      "question": "Why is Book Type required for EC in Kerala?",
+      "answer": "Kerala maintains different register books based on transaction category. Selecting the correct book ensures accurate search results."
+    },
+    {
+      "question": "Does EC include resurvey or new survey details?",
+      "answer": "Only if those updates were registered. Old deeds may still reflect pre-resurvey numbers and require mapping with revenue records."
+    },
+    {
+      "question": "Does EC verify ownership of the property in Kerala?",
+      "answer": "It verifies registered transactions, but ownership must be confirmed through the Sale Deed and revenue records."
+    },
+    {
+      "question": "Does EC show encroachments or land disputes?",
+      "answer": "No. EC only lists registered deeds. Court cases, government claims, or encroachments require legal and revenue verification."
+    },
+    {
+      "question": "Can EC help validate apartment units in Kerala?",
+      "answer": "Yes. If the unit is registered properly, the EC reflects linked documents. Project approvals require separate checks."
+    },
+    {
+      "question": "Does EC include land use or zoning as per Kerala planning rules?",
+      "answer": "No. EC records deeds, not zoning. Land use must be checked through Panchayat/Municipality or planning authorities."
+    },
+    {
+      "question": "Can EC show family partition or inheritance transfers?",
+      "answer": "Yes, if they are registered deeds. Unregistered succession or oral transfers may not appear in EC."
+    },
+    {
+      "question": "How far back do Kerala EC records go?",
+      "answer": "Digital EC covers available online years. Older records may require manual retrieval from registration offices."
+    },
+    {
+      "question": "Is EC downloaded through JaaGa authentic?",
+      "answer": "Yes. All EC data is sourced directly from Kerala government registration systems without modification."
+    }
+  ]
+}

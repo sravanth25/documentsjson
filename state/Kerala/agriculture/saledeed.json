@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why do I need a certified copy instead of a normal Sale Deed download?",
+      "answer": "Certified copies are legally attested by the registration authority and are required for court cases, mutation, legal verification, and bank submissions."
+    },
+    {
+      "question": "Does the certified copy show survey and subdivision details for agricultural land?",
+      "answer": "Yes. If registered properly, it includes survey numbers, extents, classifications, and boundaries relevant to farmland."
+    },
+    {
+      "question": "Can I request a certified copy if I am not the property owner?",
+      "answer": "Yes, certified copies are public records, but certain sensitive documents may require justification or identity verification."
+    },
+    {
+      "question": "Does the certified copy include endorsements and amendments?",
+      "answer": "Yes. Corrections, cancellations, rectifications, and endorsements reflect in certified documents where applicable."
+    },
+    {
+      "question": "Is a certified copy accepted for court proceedings in Kerala?",
+      "answer": "Yes, certified copies are legally admissible since they carry official attestation from the SRO."
+    },
+    {
+      "question": "Will the certified copy show old ownership history?",
+      "answer": "It reflects only that specific transaction. Full ownership history must be checked via Encumbrance Certificate or title audit."
+    },
+    {
+      "question": "Does the document certify agricultural land classification?",
+      "answer": "It may mention usage at time of registration. Official classification must be confirmed through revenue records like Thandaper/Adangal."
+    },
+    {
+      "question": "Can I request certified copies for very old registrations?",
+      "answer": "Yes, but older records might require manual retrieval from physical archives and may take longer."
+    },
+    {
+      "question": "Is mutation automatically updated after certified copy request?",
+      "answer": "No. Mutation must be applied separately with revenue authorities using the certified deed."
+    },
+    {
+      "question": "Is the certified copy from JaaGa authentic?",
+      "answer": "Yes. All certified copies are sourced directly from Kerala Registration Department with official attestation, not reproduced manually."
+    }
+  ]
+}

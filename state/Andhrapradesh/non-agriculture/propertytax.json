@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a Property Tax Receipt show?",
+      "answer": "It shows payment confirmation, assessment details, paid amount, period covered, arrears, and municipal jurisdiction."
+    },
+    {
+      "question": "Does the receipt confirm that the property has no tax dues?",
+      "answer": "Yes, if there are no arrears listed. If dues exist, the receipt will reflect pending balances."
+    },
+    {
+      "question": "Can property tax receipts be used as proof of ownership?",
+      "answer": "They support ownership claims but cannot replace legal documents like Sale Deed or Patta/Mutation records."
+    },
+    {
+      "question": "Is property tax the same as land revenue?",
+      "answer": "No. Property tax is collected by municipal bodies, while land revenue applies to rural agricultural land."
+    },
+    {
+      "question": "Can tax receipts be transferred to a new owner automatically?",
+      "answer": "No. Mutation or municipal name change is required after a sale before tax bills reflect new ownership."
+    },
+    {
+      "question": "Does the receipt include building or land measurement details?",
+      "answer": "It may include assessments like plinth area or plot size, but survey boundaries require FMB or tippon maps."
+    },
+    {
+      "question": "Can property tax be paid for disputed land?",
+      "answer": "Yes, payment may still be accepted, but it does not validate ownership or resolve disputes."
+    },
+    {
+      "question": "Can I download old receipts for past years?",
+      "answer": "Yes, if archived digitally. Physical office requests may be required for older data."
+    },
+    {
+      "question": "Is property tax mandatory even if the property is vacant?",
+      "answer": "Yes. Most municipal bodies collect tax regardless of usage; only specific exemptions apply."
+    },
+    {
+      "question": "Is the tax receipt downloaded through JaaGa authentic?",
+      "answer": "Yes. All receipts are fetched directly from official municipal and government tax portals without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does an FMB Sketch show in Kerala?",
+      "answer": "It shows survey boundaries, subdivision layout, parcel shapes, and measurement-based mapping of the land as recorded by Kerala’s Survey Department."
+    },
+    {
+      "question": "Does the FMB sketch include resurvey details?",
+      "answer": "If the village has undergone resurvey and is updated in records, the FMB will reflect new survey details. Otherwise, older survey maps may appear."
+    },
+    {
+      "question": "Is FMB required for land partition or boundary marking?",
+      "answer": "Yes. FMB is commonly used for physical land demarcation, fencing alignment, and verifying subdivision accuracy."
+    },
+    {
+      "question": "Does the FMB show ownership of the land?",
+      "answer": "No. FMB provides survey geometry only. Ownership must be verified through registered deeds and revenue records like Thandaper."
+    },
+    {
+      "question": "Can FMB help verify encroachments or overlaps?",
+      "answer": "It helps identify legal boundaries, but detecting encroachments requires field inspection by a licensed surveyor."
+    },
+    {
+      "question": "Does the FMB include land classification like paddy, dry land, or commercial?",
+      "answer": "No. Classification must be checked separately through revenue records or Kerala land data portals."
+    },
+    {
+      "question": "Is FMB required for building plan or layout approvals in Kerala?",
+      "answer": "Yes. Authorities may require FMB to validate exact land boundaries before approving layouts or development plans."
+    },
+    {
+      "question": "Are water bodies or public lands shown in FMB?",
+      "answer": "They may be represented as boundary references, but zoning and wetland tagging require additional verification."
+    },
+    {
+      "question": "Can FMB be mapped to GIS or digital survey data?",
+      "answer": "Yes. It can be overlaid on GIS maps for geo-referencing when combined with latitude-longitude data or resurvey records."
+    },
+    {
+      "question": "Is FMB data from JaaGa authentic?",
+      "answer": "Yes. All sketches are sourced directly from official Kerala survey and land records without modification."
+    }
+  ]
+}

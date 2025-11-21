@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What are prohibited lands?",
+      "answer": "Prohibited lands are government-restricted properties that cannot be sold, transferred, or registered due to legal, public, religious, or administrative restrictions."
+    },
+    {
+      "question": "What types of land are commonly marked as prohibited?",
+      "answer": "Examples include assigned land, endowment/temple land, government poramboke, forest land, tribal land, ceiling surplus land, defense land, irrigation land, and protected heritage land."
+    },
+    {
+      "question": "Does a Sale Deed alone confirm whether land is prohibited?",
+      "answer": "No. A Sale Deed can be registered even on restricted land in some cases due to oversight, so classification must be verified separately through land records."
+    },
+    {
+      "question": "Can prohibited land be regularized or converted?",
+      "answer": "In certain cases, reclassification or regularization may be possible through legal processes, subject to policy and authority approval."
+    },
+    {
+      "question": "Does prohibited land appear in Encumbrance Certificate?",
+      "answer": "Not always. EC shows transactions, but prohibitions are classification-based and require revenue or statutory verification."
+    },
+    {
+      "question": "Is all government land considered prohibited?",
+      "answer": "Most government land is non-transferable, but certain lands may be leased or allotted legally depending on jurisdiction and policy."
+    },
+    {
+      "question": "Does prohibited status apply to both agricultural and non-agricultural land?",
+      "answer": "Yes. Restrictions apply based on classification, authority, or purpose, irrespective of land type."
+    },
+    {
+      "question": "Will banks approve loans on prohibited land?",
+      "answer": "No. Most financial institutions reject loans on restricted lands because legal ownership cannot be established."
+    },
+    {
+      "question": "Can prohibited status be verified online?",
+      "answer": "In many jurisdictions, yes—classification datasets are linked to digital land records. JaaGa fetches this directly from official sources."
+    },
+    {
+      "question": "Is prohibited land data from JaaGa authentic?",
+      "answer": "Yes. All classifications are fetched directly from official revenue, survey, and land authority portals without modification."
+    }
+  ]
+}

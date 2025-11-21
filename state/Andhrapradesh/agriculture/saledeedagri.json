@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Does an agricultural Sale Deed in AP show land classification?",
+      "answer": "It may mention crop or land classification, but official land type must be verified through revenue records like Adangal and ROR."
+    },
+    {
+      "question": "Can agricultural land in Andhra Pradesh be converted to non-agriculture use?",
+      "answer": "Yes, but conversion requires approval from revenue and planning authorities after verifying zoning and land use permissions."
+    },
+    {
+      "question": "Does the AP Sale Deed show sub-division numbers for large survey plots?",
+      "answer": "Yes. If the land was divided legally, the document includes sub-division identifiers for each segment."
+    },
+    {
+      "question": "Does the Sale Deed confirm pattadar rights?",
+      "answer": "Not always. Pattadar rights appear in revenue records (ROR / Adangal), while Sale Deed proves registered transfer."
+    },
+    {
+      "question": "Do banks accept AP agricultural Sale Deeds for loan processing?",
+      "answer": "Yes, but banks may require EC history, Adangal/ROR, tax receipts, and conversion status depending on the loan type."
+    },
+    {
+      "question": "Can multiple agricultural plots be included in the same Sale Deed in AP?",
+      "answer": "Yes, if they’re part of the same transaction and recorded under the same SRO registration."
+    },
+    {
+      "question": "Does the Sale Deed show irrigation or borewell rights?",
+      "answer": "Only if registered. Water rights and irrigation access may require separate verification from relevant authorities."
+    },
+    {
+      "question": "Can agricultural Sale Deeds be registered without mutation updates?",
+      "answer": "Yes. Registration occurs first. Mutation must be applied separately to update revenue records."
+    },
+    {
+      "question": "Does the AP Sale Deed include map or boundary drawings?",
+      "answer": "No, it primarily records survey extent and boundaries textually. FMB or ground survey maps provide actual measurements."
+    },
+    {
+      "question": "Is the Sale Deed downloaded from JaaGa authentic?",
+      "answer": "Yes. All records are fetched directly from official AP government registration systems without modification."
+    }
+  ]
+}

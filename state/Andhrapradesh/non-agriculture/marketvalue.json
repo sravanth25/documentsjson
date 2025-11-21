@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "How is market value different from guideline value?",
+      "answer": "Guideline value is a government-mandated minimum rate for stamp duty, while market value reflects actual buying and selling prices in the open market."
+    },
+    {
+      "question": "What factors influence market value?",
+      "answer": "Location, road access, nearby development, demand, zoning, infrastructure projects, and plot dimensions all influence market value."
+    },
+    {
+      "question": "Does market value include building or only land?",
+      "answer": "Market value can include land + structure value based on property type, while government valuation often applies separately."
+    },
+    {
+      "question": "Can market value be higher than guideline value?",
+      "answer": "Yes, most urban and developing regions sell far above guideline value due to demand and growth."
+    },
+    {
+      "question": "Do banks consider market value for loans?",
+      "answer": "Banks consider both market value and internal valuation reports; loan sanction amounts may be based on the lower of the two."
+    },
+    {
+      "question": "Can market value decrease over time?",
+      "answer": "Yes, values can drop due to litigation, zoning restrictions, market downturns, or lack of development."
+    },
+    {
+      "question": "Is market value required for property resale pricing?",
+      "answer": "Yes, it helps determine competitive pricing and resale value based on current demand."
+    },
+    {
+      "question": "Does market value apply to agricultural properties?",
+      "answer": "Yes, but agricultural land value also depends on soil type, irrigation, access, crop potential, and conversion feasibility."
+    },
+    {
+      "question": "Does market value confirm legal title?",
+      "answer": "No. Market value is economic pricing and does not verify ownership or legal status; EC and sale deed checks are required."
+    },
+    {
+      "question": "Is market value data from JaaGa authentic?",
+      "answer": "Yes. Values are generated from official transaction records, verified datasets, and real-estate valuation sources."
+    }
+  ]
+}

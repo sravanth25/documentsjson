@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is Book Type required to fetch Sale Deeds in Kerala?",
+      "answer": "Kerala maintains multiple registry books based on document category. Selecting the correct book ensures the document is searched in the right register."
+    },
+    {
+      "question": "Does the Kerala Sale Deed include re-survey numbers or new survey references?",
+      "answer": "Yes, if updated at the time of registration. Older documents may require linking with resurvey records separately."
+    },
+    {
+      "question": "Does the Sale Deed in Kerala mention building or flat details?",
+      "answer": "Yes, it can include apartment identifiers, floor numbers, and project information if recorded during registration."
+    },
+    {
+      "question": "Can a Kerala Sale Deed include multiple adjoining plots?",
+      "answer": "Yes, multiple parcels may appear under one document if part of the same transaction and registration entry."
+    },
+    {
+      "question": "Is Sale Deed sufficient for land update in Village or Local Body records?",
+      "answer": "No. After registration, mutation or Thandaper updates must be applied separately to update revenue records."
+    },
+    {
+      "question": "Does the Kerala Sale Deed confirm encumbrance clearance?",
+      "answer": "Not fully. It records the specific transaction. Encumbrance must be verified through EC or title audit."
+    },
+    {
+      "question": "Does the Sale Deed specify land use as per Kerala zoning laws?",
+      "answer": "It may mention usage, but zoning must be verified through local body or planning authority records."
+    },
+    {
+      "question": "Is this document valid for bank loan processing?",
+      "answer": "Yes, along with EC, possession certificates, tax receipts, and other supporting records."
+    },
+    {
+      "question": "Can ownership disputes be identified from the Sale Deed?",
+      "answer": "It shows registered transfers, but disputes must be checked through court records or legal audits."
+    },
+    {
+      "question": "Is the Sale Deed downloaded from JaaGa authentic?",
+      "answer": "Yes. All data is sourced directly from official Kerala registration databases without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why do I need a RERA Certificate before investing in a project?",
+      "answer": "It confirms that the project is officially registered, legally approved, and monitored by K-RERA, helping avoid fraud and unapproved constructions."
+    },
+    {
+      "question": "What details are required to fetch a RERA Certificate through JaaGa?",
+      "answer": "You only need the project name to retrieve the registration details."
+    },
+    {
+      "question": "Does a RERA certificate guarantee timely project completion?",
+      "answer": "It ensures regulatory oversight and accountability, but construction delays may still require legal follow-up with the promoter."
+    },
+    {
+      "question": "Does the certificate confirm legal ownership of the project land?",
+      "answer": "It includes declared ownership details submitted to RERA, but full title verification requires Sale Deeds and land records."
+    },
+    {
+      "question": "Is every property in Kerala required to be RERA-registered?",
+      "answer": "Only qualifying real-estate projects must register. Smaller or exempt projects may not appear in RERA records."
+    },
+    {
+      "question": "Is a RERA certificate valid for home loan processing?",
+      "answer": "Yes. Banks prefer RERA-registered projects when approving home loans."
+    },
+    {
+      "question": "Will canceled or expired RERA registrations appear when searching?",
+      "answer": "Yes, if updated in official records. Such projects may show revoked or inactive status."
+    },
+    {
+      "question": "Does the certificate show project layout and unit details?",
+      "answer": "It may include approved plans and filings, but detailed layouts require separate sanctioned plan documents."
+    },
+    {
+      "question": "Is resale property covered by RERA?",
+      "answer": "RERA applies to the project itself. Individual resale units may not require separate registration."
+    },
+    {
+      "question": "Is RERA data from JaaGa authentic?",
+      "answer": "Yes. All project data is sourced directly from Kerala RERA’s official records without modification."
+    }
+  ]
+}

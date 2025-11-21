@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why should I run a Document Search before buying property?",
+      "answer": "It helps verify registered records, past ownership, consideration value, and linked document references early in the due-diligence process before investing time or money."
+    },
+    {
+      "question": "What information do I need to search a document through JaaGa?",
+      "answer": "You typically need the District/SRO, Document Number, Registration Year, and Book Type depending on the record category."
+    },
+    {
+      "question": "Is the Document Search result legally valid?",
+      "answer": "The indexed search result is sourced from official government records and is accurate for verification, but certified copies may be required for legal submissions or court use."
+    },
+    {
+      "question": "Is Document Search different from downloading the actual deed?",
+      "answer": "Yes. Document Search provides indexed metadata; downloading the Sale Deed provides the full registered document."
+    },
+    {
+      "question": "Can Document Search reveal past linked deeds?",
+      "answer": "Yes. It may provide references to prior documents, which helps trace the title chain during verification."
+    },
+    {
+      "question": "Does Document Search show disputes or encumbrances?",
+      "answer": "Not directly. You must check Encumbrance Certificate or litigation reports separately."
+    },
+    {
+      "question": "Does Document Search confirm who currently owns the property?",
+      "answer": "It confirms recorded transactions for the specific document; full current ownership requires EC and mutation checks."
+    },
+    {
+      "question": "Can I search old records that are not digitized?",
+      "answer": "Digitized data will show instantly. Older records may require manual archival retrieval at the SRO."
+    },
+    {
+      "question": "Does the search include land use or zoning?",
+      "answer": "No. It focuses on registered deeds. Land use must be verified through planning and local-body authorities."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All document data is sourced directly from the Kerala Registration Department without modification."
+    }
+  ]
+}

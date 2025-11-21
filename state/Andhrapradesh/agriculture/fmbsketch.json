@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Why do I need an FMB Sketch for agricultural land in AP?",
+      "answer": "FMB Sketch helps verify subdivision lines and survey geometry required for land partition, crop mapping, and revenue documentation."
+    },
+    {
+      "question": "Does the AP FMB show changes after resurvey or reallocation?",
+      "answer": "Yes, if the resurvey is officially updated in the survey records. Older maps may still reflect pre-resurvey boundaries."
+    },
+    {
+      "question": "Can FMB Sketch be used to validate land claimed under inheritance?",
+      "answer": "It supports claim verification by showing how land is mapped under each survey number, but legal proof still requires registered documents."
+    },
+    {
+      "question": "Is FMB needed to apply for subdivision or land partition in AP?",
+      "answer": "Yes. FMB measurements are referenced when applying for subdivision or mapping new Khata entries."
+    },
+    {
+      "question": "Does FMB Sketch identify government or assigned land in AP?",
+      "answer": "It shows mapped extent and references; classification must be checked separately through land classification records."
+    },
+    {
+      "question": "Can FMB be used for crop survey or geo-tagging under government schemes?",
+      "answer": "Yes. FMB helps align survey boundaries with scheme mapping where digital geotagging is required."
+    },
+    {
+      "question": "Does the FMB contain settlement-level boundary linking?",
+      "answer": "It may reference boundary lines tied to settlement records, but linkage varies based on district digitization."
+    },
+    {
+      "question": "Will FMB reflect encroachments or occupation on ground?",
+      "answer": "No. It provides legal measurements; actual encroachments must be confirmed through ground survey mapping."
+    },
+    {
+      "question": "Is FMB required for borewell or irrigation layout planning?",
+      "answer": "It is commonly referenced to position pipelines, channels, and borewell alignment based on surveyed boundaries."
+    },
+    {
+      "question": "Is the FMB downloaded from JaaGa authentic?",
+      "answer": "Yes. All AP survey maps are sourced directly from government land and survey databases without modification."
+    }
+  ]
+}

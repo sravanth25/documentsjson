@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What details do I need to search agricultural documents in Kerala?",
+      "answer": "You only need District/SRO, Document Number, and Registration Year to fetch indexed document details."
+    },
+    {
+      "question": "What information does the search provide?",
+      "answer": "It provides registered transaction data such as parties, survey references, land extent, consideration amount, and linked document references."
+    },
+    {
+      "question": "Does the search confirm that land is agricultural?",
+      "answer": "It shows what was recorded in the deed. Official land classification must be verified separately through Thandaper or Village Office records."
+    },
+    {
+      "question": "Is Document Search enough to check ownership?",
+      "answer": "It helps verify transactions but full ownership validation requires EC, mutation, and revenue records."
+    },
+    {
+      "question": "Can I use Document Search results for legal purposes?",
+      "answer": "The search provides official indexed information, but certified copies are required for legal proceedings or court submission."
+    },
+    {
+      "question": "Does Document Search show mortgages on agricultural land?",
+      "answer": "Yes, if the mortgage was formally registered. Informal or private mortgages may not appear."
+    },
+    {
+      "question": "Does the search reveal government acquisition or prohibited status?",
+      "answer": "No. Prohibited or government classifications require separate land classification checks."
+    },
+    {
+      "question": "Can this be used to trace ownership history?",
+      "answer": "Yes, it can help trace prior deeds using linked references, but a full chain requires EC and title audit."
+    },
+    {
+      "question": "Does this search include older offline records?",
+      "answer": "Digital records will show instantly. Very old records may require manual archive requests at the SRO."
+    },
+    {
+      "question": "Is the data from JaaGa authentic?",
+      "answer": "Yes. All document details are sourced directly from the official Kerala Registration Department without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Electricity Bill Receipt?",
+      "answer": "It is an official acknowledgment showing that electricity charges have been paid for a specific billing period in Andhra Pradesh."
+    },
+    {
+      "question": "What details are required to download the electricity bill receipt through JaaGa?",
+      "answer": "You only need the USN (Unique Service Number) to fetch the bill receipt."
+    },
+    {
+      "question": "Does the receipt show outstanding dues or arrears?",
+      "answer": "Yes. The receipt may reflect pending charges, previous arrears, and payment adjustments if applicable."
+    },
+    {
+      "question": "Is the receipt valid for loan or rental documentation?",
+      "answer": "Yes, electricity bill receipts are commonly required for address proof, ownership verification, and rental agreements."
+    },
+    {
+      "question": "Does the receipt confirm property ownership?",
+      "answer": "No. It shows consumer service details, not legal ownership. Ownership must be verified through registered property records."
+    },
+    {
+      "question": "Can I download bills for previous months?",
+      "answer": "Yes. Historical receipts can be retrieved if available in digital records."
+    },
+    {
+      "question": "Does the USN change after property transfer?",
+      "answer": "The service number typically remains the same, but consumer name and billing account details may change after transfer."
+    },
+    {
+      "question": "Does the receipt include service load or connection type?",
+      "answer": "Yes, receipts may include tariff category, load, and service type details where available."
+    },
+    {
+      "question": "Does JaaGa support all DISCOMs in Andhra Pradesh?",
+      "answer": "Yes, data is sourced from official AP electricity distribution portals."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All receipts are fetched directly from official government electricity billing systems without modification."
+    }
+  ]
+}

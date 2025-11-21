@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Mutation / Khata Certificate?",
+      "answer": "It is an official record showing that government revenue or municipal records have been updated to reflect the current owner after a transfer."
+    },
+    {
+      "question": "Is mutation required after registration?",
+      "answer": "Yes. Registration updates title legally, but mutation updates revenue/municipal records for taxation and property administration."
+    },
+    {
+      "question": "Is a mutated property proof of ownership?",
+      "answer": "It supports ownership claims but does not replace the registered Sale Deed as legal proof of ownership."
+    },
+    {
+      "question": "What happens if mutation is not completed?",
+      "answer": "Revenue records remain in the previous owner's name, affecting tax responsibility and causing complications during resale or government proceedings."
+    },
+    {
+      "question": "Does mutation automatically occur after registration?",
+      "answer": "No. In many jurisdictions, mutation must be applied separately with required supporting documents."
+    },
+    {
+      "question": "Does mutation show measurement or land boundaries?",
+      "answer": "No. It updates ownership entries. Survey maps like FMB or Tippon are needed for boundaries."
+    },
+    {
+      "question": "Can multiple owners be recorded in mutation?",
+      "answer": "Yes, joint ownership can be recorded if the registered deed specifies multiple owners."
+    },
+    {
+      "question": "Is mutation needed for loan or property tax updates?",
+      "answer": "Yes. Banks and municipal bodies often require mutation to verify current ownership before issuing permissions or tax updates."
+    },
+    {
+      "question": "Does mutation check if land is agricultural or non-agricultural?",
+      "answer": "It may reflect classification but official land-type verification must be done through revenue and planning records."
+    },
+    {
+      "question": "Is mutation data from JaaGa authentic?",
+      "answer": "Yes. All mutation/khata records are fetched directly from official revenue and municipal systems without modification."
+    }
+  ]
+}

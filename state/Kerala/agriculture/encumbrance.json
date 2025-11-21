@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Does an agricultural EC show land classification in Kerala?",
+      "answer": "It may reference land type recorded in the deed, but official classification must be confirmed through revenue records like Thandaper or Village Office records."
+    },
+    {
+      "question": "Does the EC list transactions related to farmland leasing or cultivation agreements?",
+      "answer": "Only if such agreements were formally registered. Many informal or oral arrangements will not appear."
+    },
+    {
+      "question": "Can EC be used to verify agricultural land for subsidy or farming schemes?",
+      "answer": "It supports ownership validation, but scheme eligibility requires revenue and agricultural records."
+    },
+    {
+      "question": "Does the EC show subdivision references if the survey number was split?",
+      "answer": "Yes, if the subdivision is registered with the SRO. Otherwise, survey office records must be checked separately."
+    },
+    {
+      "question": "Can agricultural land have registered encumbrances like mortgages?",
+      "answer": "Yes. Banks often mortgage farmland; such entries will appear in EC when legally registered."
+    },
+    {
+      "question": "Is EC required to apply for mutation in Kerala?",
+      "answer": "Yes. EC is commonly required along with the Sale Deed when updating ownership in revenue records."
+    },
+    {
+      "question": "Does EC verify if the land is eligible for conversion to non-agriculture?",
+      "answer": "No. It only shows transactions. Conversion rules must be checked with revenue and local-body authorities."
+    },
+    {
+      "question": "Can EC help verify inherited agricultural land?",
+      "answer": "It can show registered succession deeds, but unregistered inheritance must be confirmed through Village Office records."
+    },
+    {
+      "question": "Does the EC reflect government acquisition notices?",
+      "answer": "Only if acquisition entries are formally registered. Separate govt notifications may need manual verification."
+    },
+    {
+      "question": "Is the EC from JaaGa authentic?",
+      "answer": "Yes. EC records are sourced directly from Kerala Registration Department without modification."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a Pattadar Passbook show?",
+      "answer": "It shows the pattadar name, survey details, land type, extent, and revenue classification for agricultural land in Andhra Pradesh."
+    },
+    {
+      "question": "What details are required to download the Pattadar Passbook through JaaGa?",
+      "answer": "You only need the Village/Division, Survey Number, and Khata Number to fetch the document instantly."
+    },
+    {
+      "question": "Is Pattadar Passbook proof of ownership?",
+      "answer": "It supports ownership claims for revenue purposes, but legal ownership is confirmed through registered Sale Deeds."
+    },
+    {
+      "question": "Does the passbook show subdivision details?",
+      "answer": "Yes, if the land is split legally, sub-divisions appear linked to the Khata or survey entry."
+    },
+    {
+      "question": "Can the passbook be updated after a sale or partition?",
+      "answer": "Yes. Mutation must be applied after registration to update the passbook with the new pattadar details."
+    },
+    {
+      "question": "Does the passbook show whether land is assigned or government land?",
+      "answer": "It may indicate classification, but restricted or assigned status should be verified through land classification checks."
+    },
+    {
+      "question": "Is Pattadar Passbook required for agricultural loans?",
+      "answer": "Yes. Banks typically require a valid passbook along with EC, Sale Deed, and land survey details."
+    },
+    {
+      "question": "Does the passbook show crop or soil details?",
+      "answer": "No. It reflects ownership and classification. Crop or soil details require separate agricultural records."
+    },
+    {
+      "question": "Can NRIs hold Pattadar Passbook land in AP?",
+      "answer": "Yes, if legally inherited or purchased. Restrictions apply for certain land types or reclassified categories."
+    },
+    {
+      "question": "Is data from JaaGa authentic?",
+      "answer": "Yes. All records are sourced directly from official AP land and revenue portals without modification."
+    }
+  ]
+}
