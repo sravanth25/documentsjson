@@ -1,0 +1,32 @@
+{
+  "FAQ": [
+    {
+      "question": "What exactly is a Link Document in Telangana or Andhra Pradesh?",
+      "answer": "A Link Document is the certified copy of a registered Sale Deed or related document maintained at the SRO. It proves the legal ownership and history of the property."
+    },
+    {
+      "question": "What information do I need to provide to request a Link Document?",
+      "answer": "You will need details such as the Sub-Registrar Office (SRO), Document Number, Registration Year, and property identifiers like Survey Number, Flat Number, or Plot Number."
+    },
+    {
+      "question": "Can I request additional property documents along with the Link Document?",
+      "answer": "Yes. You can also request Encumbrance Certificate (EC), Market Value Certificate, Mutation details, Tax Receipts, or other property-related documents."
+    },
+    {
+      "question": "Is the Link Document valid for legal, registration, or loan-related processes?",
+      "answer": "Yes. Certified copies issued through JaaGa are sourced directly from official registries and are accepted for bank loans, court matters, verification, registration, and mutation."
+    },
+    {
+      "question": "Is the service available across all districts in Telangana and Andhra Pradesh?",
+      "answer": "Yes. JaaGa provides Link Document services across every SRO and district in both Telangana and Andhra Pradesh."
+    },
+    {
+      "question": "Do I need to visit any Sub-Registrar Office myself?",
+      "answer": "No. JaaGa handles the complete process on your behalf. You simply provide the required property details, and we fetch the certified document for you."
+    },
+    {
+      "question": "How much does obtaining a Link Document cost?",
+      "answer": "Pricing varies based on document type and SRO requirements. JaaGa provides transparent charges before processing your request."
+    }
+  ]
+}
