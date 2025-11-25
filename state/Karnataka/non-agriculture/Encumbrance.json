@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is an Encumbrance Certificate important?",
+      "answer": "It shows registered mortgages, loans, sales, or claims linked to the property and confirms title clarity."
+    },
+    {
+      "question": "Does EC show apartment unit-specific transactions?",
+      "answer": "Yes, if the individual unit has a unique registered document number."
+    },
+    {
+      "question": "Is EC required for property transfer and loans?",
+      "answer": "Yes. Banks and authorities require EC for khata transfer and loan approval."
+    }
+  ]
+}

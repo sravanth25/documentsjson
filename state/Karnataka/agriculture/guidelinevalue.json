@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What do Survey Documents contain?",
+      "answer": "They include land measurements, boundaries, adjoining survey info, and resurvey data."
+    },
+    {
+      "question": "Are Survey Documents needed for land disputes?",
+      "answer": "Yes. They are vital for boundary verification and settlement of disputes."
+    },
+    {
+      "question": "Can Survey Documents confirm land ownership?",
+      "answer": "No. They only confirm measurements and location, not legal ownership."
+    }
+  ]
+}

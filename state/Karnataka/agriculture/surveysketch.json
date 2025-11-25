@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does a Survey Sketch show?",
+      "answer": "It shows land boundaries, adjoining survey numbers, and measurement layout."
+    },
+    {
+      "question": "Is Survey Sketch required for fencing or construction?",
+      "answer": "Yes. It helps mark accurate boundaries before fencing or layout creation."
+    },
+    {
+      "question": "Is Survey Sketch sufficient to resolve disputes?",
+      "answer": "It supports dispute resolution, but FMB or resurvey may still be required."
+    }
+  ]
+}

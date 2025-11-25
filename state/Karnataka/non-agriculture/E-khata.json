@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does BBMP E-Khata confirm?",
+      "answer": "It confirms the property's entry in BBMP's municipal tax register with ownership and property details."
+    },
+    {
+      "question": "Is E-Khata proof of ownership?",
+      "answer": "No. It shows municipal records but ownership is proven by a registered Sale Deed."
+    },
+    {
+      "question": "Can I use E-Khata for building plan approvals?",
+      "answer": "Yes. E-Khata is required for plan approvals, trade licenses, and municipal services."
+    }
+  ]
+}

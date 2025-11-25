@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does the Khata Extract show?",
+      "answer": "It displays property details such as measurements, tax assessment, owner name, and property type."
+    },
+    {
+      "question": "Is Khata Extract required for construction?",
+      "answer": "Yes. It is mandatory for building plan approvals and license applications."
+    },
+    {
+      "question": "Is Khata Extract available online?",
+      "answer": "Yes. It can be obtained digitally through BBMP/BDA portals via JaaGa."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What is the guideline value used for?",
+      "answer": "It determines minimum valuation for calculating stamp duty and registration charges."
+    },
+    {
+      "question": "Does guideline value reflect actual price?",
+      "answer": "No. Market value may be higher or lower depending on demand and location."
+    },
+    {
+      "question": "Is guideline value uniform across villages?",
+      "answer": "No. It varies by village, hobali, and specific survey blocks."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is a Property Audit Report important for agricultural land?",
+      "answer": "It verifies RTC, mutation status, survey boundaries, classification, encumbrances, and legal risks before purchase."
+    },
+    {
+      "question": "Does the audit detect government or restricted categories of land?",
+      "answer": "Yes. It flags gomala, forest, inam, grant land, and other restricted classifications."
+    },
+    {
+      "question": "Does it include survey and FMB comparison?",
+      "answer": "Yes. The audit highlights mismatches between RTC, survey sketches, and registered documents."
+    }
+  ]
+}

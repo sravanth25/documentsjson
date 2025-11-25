@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does the EC show for agricultural land?",
+      "answer": "It lists registered sales, mortgages, releases, and claims associated with the land parcel."
+    },
+    {
+      "question": "Does EC show unregistered disputes?",
+      "answer": "No. EC only shows registered documents; other disputes must be checked through revenue records."
+    },
+    {
+      "question": "Is EC required for crop or agricultural bank loans?",
+      "answer": "Yes. Banks verify EC to confirm the land is free from legal or financial encumbrances."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Plot ID used for?",
+      "answer": "It helps fetch land details such as ROR, Bhunaksha, area, owner records, and linked documents."
+    },
+    {
+      "question": "Does Plot ID replace ROR?",
+      "answer": "No. It is used only for identification; legal records stay in the ROR."
+    },
+    {
+      "question": "Can I find Plot ID using Tehsil Details?",
+      "answer": "Yes. Plot ID can be searched using Tehsil and Survey Number."
+    }
+  ]
+}

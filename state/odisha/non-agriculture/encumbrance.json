@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does the EC show in Odisha?",
+      "answer": "It lists registered transactions like sales, mortgages, and transfers linked to the plot or Khatiyan."
+    },
+    {
+      "question": "Does EC show unregistered disputes?",
+      "answer": "No. Only registered transactions appear; revenue disputes need separate verification."
+    },
+    {
+      "question": "Is EC required for mutation and loan approval?",
+      "answer": "Yes. Banks and authorities require EC to confirm the property is free from registered liabilities."
+    }
+  ]
+}

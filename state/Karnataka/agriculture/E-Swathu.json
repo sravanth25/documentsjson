@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Form 9 used for?",
+      "answer": "It records non-agricultural village property details such as ownership and conversion status."
+    },
+    {
+      "question": "Is Form 9 required for building approval?",
+      "answer": "Yes. It is needed for construction permissions and utility connections."
+    },
+    {
+      "question": "Does Form 9 apply to agricultural land?",
+      "answer": "It applies mainly to converted or residential village properties under Panchayat limits."
+    }
+  ]
+}

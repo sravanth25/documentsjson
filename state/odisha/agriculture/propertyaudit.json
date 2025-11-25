@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is a Property Audit Report important in Odisha?",
+      "answer": "It verifies ROR details, ownership history, encumbrances, land type, and legal risks before purchase."
+    },
+    {
+      "question": "Does the audit detect government or restricted land types?",
+      "answer": "Yes. The report flags forest land, encroached land, sarbasadharan plots, and other restricted categories."
+    },
+    {
+      "question": "Does the audit check for mismatch between ROR and Bhunaksha?",
+      "answer": "Yes. It highlights survey mismatches, boundary issues, and unrecorded subdivisions."
+    }
+  ]
+}

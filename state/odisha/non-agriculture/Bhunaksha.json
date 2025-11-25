@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does Bhunaksha show in Odisha?",
+      "answer": "It displays digital cadastral maps with plot boundaries, subdivisions, and adjoining land references."
+    },
+    {
+      "question": "Can Bhunaksha be used for exact measurement?",
+      "answer": "It provides boundary reference; exact measurements require official field survey."
+    },
+    {
+      "question": "Does Bhunaksha confirm ownership?",
+      "answer": "No. Ownership must be confirmed through ROR and Sale Deed."
+    }
+  ]
+}

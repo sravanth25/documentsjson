@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is mutation required after buying a property?",
+      "answer": "It updates municipal records to reflect the new owner and ensures tax bills are issued correctly."
+    },
+    {
+      "question": "Does mutation prove ownership?",
+      "answer": "It confirms municipal ownership but legal ownership is verified through the Sale Deed."
+    },
+    {
+      "question": "Can mutation be done online?",
+      "answer": "Yes, most BBMP/BDA regions support online mutation applications."
+    }
+  ]
+}

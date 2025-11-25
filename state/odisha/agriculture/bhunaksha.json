@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What information does Bhunaksha provide?",
+      "answer": "It shows digital cadastral maps with boundaries, plot shapes, subdivisions, and adjacent land parcels."
+    },
+    {
+      "question": "Is Bhunaksha suitable for exact land measurement?",
+      "answer": "No. It provides boundary reference; exact measurements require field survey or LR maps."
+    }, 
+    {
+      "question": "Does Bhunaksha show ownership?",
+      "answer": "No. Ownership must be confirmed through ROR or Sale Deed."
+    }
+  ]
+}

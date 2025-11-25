@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is Plot ID important in Odisha?",
+      "answer": "It helps users correctly identify land parcels and access ROR, Bhunaksha, and mutation details easily."
+    },
+    {
+      "question": "Can I find Plot ID using hal or sabik details?",
+      "answer": "Yes. Plot ID search works with either hal or sabik plot numbers, village, and khatiyan details."
+    },
+    {
+      "question": "Does Plot ID confirm ownership?",
+      "answer": "No. It only identifies the plot; ownership must be checked in the ROR."
+    }
+  ]
+}

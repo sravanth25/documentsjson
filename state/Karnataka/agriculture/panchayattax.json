@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is Panchayat Tax Receipt needed?",
+      "answer": "It confirms payment of rural property taxes and ensures no outstanding dues."
+    },
+    {
+      "question": "Is the tax receipt required for selling rural property?",
+      "answer": "Yes. Buyers check it to verify tax compliance before purchase."
+    },
+    {
+      "question": "Can I download old tax receipts?",
+      "answer": "Yes. If available digitally in Panchayat systems, past receipts can be downloaded."
+    }
+  ]
+}

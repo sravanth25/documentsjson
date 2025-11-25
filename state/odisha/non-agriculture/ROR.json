@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What information does the ROR/Khatiyan provide?",
+      "answer": "It includes owner details, kisam (land type), area, tenant entries, rent, and possession records."
+    },
+    {
+      "question": "Is ROR required for selling property?",
+      "answer": "Yes. It is mandatory for mutation, legal verification, and ownership confirmation."
+    },
+    {
+      "question": "Does ROR show past transactions?",
+      "answer": "It shows ownership and mutation history but may not show all registered deeds without an EC check."
+    }
+  ]
+}

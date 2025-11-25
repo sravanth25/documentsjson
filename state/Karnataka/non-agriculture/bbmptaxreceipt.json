@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "Why is the BBMP Tax Receipt important?",
+      "answer": "It confirms property tax payment and ensures no pending dues before resale or khata transfer."
+    },
+    {
+      "question": "Do buyers check tax receipts before purchase?",
+      "answer": "Yes. It is a mandatory part of due-diligence."
+    },
+    {
+      "question": "Can previous year tax receipts be downloaded?",
+      "answer": "Yes. Past receipts can be downloaded if available in BBMP records."
+    }
+  ]
+}

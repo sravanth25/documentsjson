@@ -1,0 +1,16 @@
+{
+  "FAQ": [
+    {
+      "question": "What does the EC show for agricultural land in Odisha?",
+      "answer": "It shows all registered transactions such as sales, mortgages, releases, and claims linked to the plot."
+    },
+    {
+      "question": "Does EC include unregistered disputes?",
+      "answer": "No. EC only lists registered documents; revenue or civil disputes must be checked separately."
+    },
+    {
+      "question": "Is EC required for mutation or agricultural loans?",
+      "answer": "Yes. Banks and authorities require EC to ensure the land is free from registered liabilities."
+    }
+  ]
+}
