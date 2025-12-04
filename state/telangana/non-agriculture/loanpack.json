@@ -1,0 +1,26 @@
+{
+  "FAQ": [
+
+    
+    {
+      "question": "What is a Telangana Loan Pack (Non-Agriculture)?",
+      "answer": "It is a collection of essential property documents required by banks to process loans for residential, commercial, and non-agricultural properties."
+    },
+    {
+      "question": "Why is the Loan Pack needed?",
+      "answer": "Banks require verified property documents before approving a loan. The Loan Pack ensures all key documents are compiled and validated."
+    },
+    {
+      "question": "What details are needed to start the Loan Pack process?",
+      "answer": "You must provide the district, SRO, document number, year of registration, survey/plot number, and property owner details."
+    },
+    {
+      "question": "What documents will I receive in the Loan Pack?",
+      "answer": "You will get key documents like: Encumbrance Certificate (EC), Certified Copy/Sale Deed, Market/Guideline Value, Property Tax details, and other bank-required records."
+    },
+    {
+      "question": "How long does it take to complete the Loan Pack?",
+      "answer": "Usually 24–48 hours, depending on document availability and accuracy of details provided."
+    }
+  ]
+}
