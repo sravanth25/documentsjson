@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Khasra Copy?",
+      "answer": "Khasra is a field register record listing plot-wise details like area, cultivation, and owner details used in revenue records."
+    },
+    {
+      "question": "What details are required to get a Khasra Copy?",
+      "answer": "You need district, tehsil, village, survey number (and sub-division if any)."
+    },
+    {
+      "question": "How long does it take to obtain a Khasra Copy?",
+      "answer": "If digitized it can be accessed instantly; otherwise 1–2 working days depending on the office."
+    },
+    {
+      "question": "Can Khasra be used to verify cultivation?",
+      "answer": "Yes. Khasra includes cultivation and crop details recorded by revenue authorities."
+    },
+    {
+      "question": "Is Khasra legally binding?",
+      "answer": "Khasra is an important revenue record but legal ownership validation requires mutation and registered documents."
+    }
+  ]
+}

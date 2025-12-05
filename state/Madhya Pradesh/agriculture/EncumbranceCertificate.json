@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an Encumbrance Certificate?",
+      "answer": "An EC lists registered charges (mortgages, liens) on a property during a specified period and helps confirm title is clear."
+    },
+    {
+      "question": "What details are required to fetch an EC?",
+      "answer": "You need district/SRO, survey/plot number or document numbers and the date range for which EC is required."
+    },
+    {
+      "question": "How long does it take to get EC?",
+      "answer": "If records are digital it can be generated instantly; otherwise it may take 1–3 working days."
+    },
+    {
+      "question": "Can EC show all types of liabilities?",
+      "answer": "EC shows formally registered charges; informal or unregistered claims may not appear."
+    },
+    {
+      "question": "Is EC sufficient to prove clear title?",
+      "answer": "EC is critical but full title audit also requires mutation, sale deed, and revenue records."
+    }
+  ]
+}

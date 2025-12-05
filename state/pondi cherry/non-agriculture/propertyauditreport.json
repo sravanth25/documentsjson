@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Pondicherry Property Audit Report (Non-Agriculture)?",
+			"answer": "It is a detailed verification report that checks ownership, registration history, encumbrances, tax status, and legal risks for non-agricultural properties such as plots, houses, apartments, and commercial units in Pondicherry."
+		},
+		{
+			"question": "Why is the Property Audit Report important?",
+			"answer": "It helps confirm that the property has a clear title, no disputes, no missing documents, and no legal or financial risks—making property purchases and loan approvals safer."
+		},
+		{
+			"question": "What details are required to start the audit?",
+			"answer": "You need the district/region, Sub-Registrar Office (SRO), document number, year of registration, survey/ward number, property address, and owner details."
+		},
+		{
+			"question": "How long does the audit process take?",
+			"answer": "The audit usually takes 24–48 hours, depending on document availability and verification requirements."
+		},
+		{
+			"question": "What will I receive in the final audit report?",
+			"answer": "You will receive a comprehensive report covering ownership verification, registration document checks, encumbrance status, tax verification, legal risk findings, and recommended next steps."
+		}
+	]
+}

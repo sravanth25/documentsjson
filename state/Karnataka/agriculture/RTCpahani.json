@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is Karnataka RTC (Pahani) for Agriculture?",
+			"answer": "RTC (Record of Rights, Tenancy & Crops), also called Pahani, is an official land record showing ownership, land extent, cultivation details, crop information, and liabilities for agricultural land in Karnataka."
+		},
+		{
+			"question": "Why is the RTC/Pahani important?",
+			"answer": "It is required for crop loans, subsidies, land disputes, buying/selling agriculture land, mutation updates, and verification of ownership and cultivation status."
+		},
+		{
+			"question": "What details are needed to get the RTC?",
+			"answer": "You must provide the district, taluk, hobli, village, survey number, and sub-division number (if applicable)."
+		},
+		{
+			"question": "How long does it take to obtain the RTC?",
+			"answer": "If the record exists digitally on Bhoomi, it is available instantly; otherwise, it may take 1–2 working days depending on backend verification."
+		},
+		{
+			"question": "What information does the RTC contain?",
+			"answer": "It includes owner name, survey number, land extent, soil type, crops grown, tenancy details, water source, and any government or bank liabilities on the land."
+		}
+	]
+}

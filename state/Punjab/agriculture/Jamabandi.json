@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Jamabandi (Agriculture)?",
+      "answer": "Jamabandi is an official revenue record (also called the Record of Rights) that lists ownership, land extent, cultivation, and revenue liabilities for agricultural land."
+    },
+    {
+      "question": "Why is Jamabandi important?",
+      "answer": "It is used to verify ownership, apply for agricultural loans and subsidies, resolve revenue disputes, and confirm cultivation and land classification."
+    },
+    {
+      "question": "What details are required to obtain Jamabandi?",
+      "answer": "You need the district, tehsil, village, survey/resurvey number, sub-division (if any), and owner/khata details."
+    },
+    {
+      "question": "How long does it take to get Jamabandi?",
+      "answer": "If records are digitized it can be accessed instantly; otherwise, it may take 1–2 working days depending on record retrieval."
+    },
+    {
+      "question": "What information does Jamabandi contain?",
+      "answer": "It contains owner name, khata/tenant details, land extent, cultivation information, any government or bank liabilities, and revenue entries for the plot."
+    }
+  ]
+}

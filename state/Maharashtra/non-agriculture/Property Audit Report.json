@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Maharashtra Property Audit Report (Non-Agriculture)?",
+			"answer": "It is a detailed verification report that checks ownership, registration history, encumbrances, and legal status of non-agricultural properties such as flats, plots, and commercial units in Maharashtra."
+		},
+		{
+			"question": "Why is the Property Audit Report important?",
+			"answer": "It helps buyers, owners, and banks ensure that the property has clear title, no disputes, and no missing or risky documents before a purchase or loan."
+		},
+		{
+			"question": "What details are required to start the audit?",
+			"answer": "You need the district, SRO/Registrar Office, property address, CTS/Survey number, document number, registration year, and owner details."
+		},
+		{
+			"question": "How long does the audit process take?",
+			"answer": "The audit usually takes 24–48 hours, depending on document availability and verification requirements."
+		},
+		{
+			"question": "What will I receive in the final audit report?",
+			"answer": "You will receive a detailed report covering ownership validation, document checks, encumbrance status, risk findings (if any), and recommendations for resolving issues."
+		}
+	]
+}

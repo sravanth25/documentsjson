@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a plot map?",
+      "answer": "A plot map shows the layout and measurements of a parcel, including boundaries and adjoining plots—useful for surveys and planning."
+    },
+    {
+      "question": "What details do I need to get a plot map?",
+      "answer": "District, tehsil, village, survey/plot number and owner details are required."
+    },
+    {
+      "question": "How long does it take to obtain a plot map?",
+      "answer": "If digitized it can be instant; otherwise 1–3 working days depending on office workload."
+    },
+    {
+      "question": "Can a plot map be used for construction approvals?",
+      "answer": "Plot maps are a reference; certified maps and municipal approvals are required for construction."
+    },
+    {
+      "question": "Is the plot map legally binding?",
+      "answer": "Certified cadastral or revenue department maps are authoritative; other maps are for reference."
+    }
+  ]
+}

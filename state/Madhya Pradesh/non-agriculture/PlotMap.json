@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What details do I need to get a Plot Map in Madhya Pradesh?",
+      "answer": "You need district, tehsil/taluk, village/ward, survey/plot number, and owner details to fetch the plot map."
+    },
+    {
+      "question": "What information does the Plot Map provide?",
+      "answer": "It shows plot boundaries, dimensions, adjoining plots, and survey/CTS identifiers used for registration and planning."
+    },
+    {
+      "question": "Is the Plot Map legally authoritative?",
+      "answer": "Official cadastral maps and certified copies from the revenue department are authoritative; plot maps from portals are for reference."
+    },
+    {
+      "question": "How long does it take to obtain a Plot Map?",
+      "answer": "If digitized it is usually instant; otherwise it may take 1–3 working days depending on the office workload."
+    },
+    {
+      "question": "Can I use the Plot Map for construction approvals?",
+      "answer": "Plot maps help with planning, but certified maps and municipal approvals are required for construction permissions."
+    }
+  ]
+}
