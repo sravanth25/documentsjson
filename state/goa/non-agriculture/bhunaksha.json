@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Goa Bhunaksha (Urban) for Non-Agricultural property?",
+      "answer": "Goa Bhunaksha (Urban) is a digital cadastral map that displays survey plots, boundaries, and property details for non-agricultural land within urban areas of Goa."
+    },
+    {
+      "question": "Why is Goa Bhunaksha important for Non-Agricultural properties?",
+      "answer": "It helps verify plot boundaries, confirm exact location, check encroachments, support legal verification, and assist in property transactions and planning approvals."
+    },
+    {
+      "question": "What details are shown in Goa Bhunaksha (Urban)?",
+      "answer": "It shows survey numbers, plot boundaries, adjoining plots, area measurements, GIS-based maps, subdivision details, and land classification."
+    },
+    {
+      "question": "Where can you access Goa Bhunaksha for Non-Agricultural plots?",
+      "answer": "It can be accessed through the official Goa Bhunaksha portal, urban local bodies, or Taluka Survey and Land Records Offices."
+    },
+    {
+      "question": "How is Goa Bhunaksha used?",
+      "answer": "It is used for boundary verification, site planning, construction approvals, due diligence during property purchases, and resolving land disputes."
+    }
+  ]
+}
