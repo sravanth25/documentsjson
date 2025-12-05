@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is an FMB Sketch (Agriculture)?",
+      "answer": "An FMB (Field Measurement Book) Sketch is an official cadastral map that shows the exact boundaries, measurements, and subdivision layout of agricultural land."
+    },
+    {
+      "question": "Why is the FMB Sketch important?",
+      "answer": "It is required for land surveys, boundary confirmation, fencing, dispute resolution, property partition, and for verifying the exact physical extent of the land."
+    },
+    {
+      "question": "What details are needed to obtain the FMB Sketch?",
+      "answer": "You need the district, taluk, village, survey number, sub-division number (if applicable), and landowner details."
+    },
+    {
+      "question": "How long does it take to get the FMB Sketch?",
+      "answer": "If digital records are available, it can be downloaded instantly; otherwise, it may take 1–2 working days depending on the survey department’s data."
+    },
+    {
+      "question": "What information does the FMB Sketch contain?",
+      "answer": "It includes survey boundaries, measurements, subdivision layout, adjoining land details, boundary lines, angles, and mapping references used by surveyors."
+    }
+  ]
+}

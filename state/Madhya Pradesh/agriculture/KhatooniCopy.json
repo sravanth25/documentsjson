@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Khatooni Copy?",
+      "answer": "Khatooni is a revenue record that lists the owner’s holdings and entries against a specific khata or account. Khatooni Copy provides ownership and revenue-related entries."
+    },
+    {
+      "question": "What details are needed to fetch Khatooni Copy?",
+      "answer": "You need district, tehsil, village, khata/khatauni number, and owner details where applicable."
+    },
+    {
+      "question": "How long does it take to obtain Khatooni?",
+      "answer": "If digitized it’s usually immediate; otherwise 1–2 working days depending on office processes."
+    },
+    {
+      "question": "Can Khatooni be used to prove ownership?",
+      "answer": "It supports ownership claims in revenue records but registered documents are needed for full legal proof."
+    },
+    {
+      "question": "Is Khatooni the same across states?",
+      "answer": "Naming and format vary by state, but the purpose—recording owner holdings and revenue entries—is consistent."
+    }
+  ]
+}

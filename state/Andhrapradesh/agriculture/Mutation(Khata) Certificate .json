@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Telangana Mutation (Khata) Certificate (Non-Agriculture)?",
+			"answer": "It is an official document that updates ownership details of a non-agricultural property in government land records after a sale, transfer, or inheritance."
+		},
+		{
+			"question": "Why is the Mutation (Khata) Certificate important?",
+			"answer": "Banks, government authorities, and municipalities require it as proof of updated ownership for loans, tax assessment, and property-related approvals."
+		},
+		{
+			"question": "What details are required to apply for a Mutation Certificate?",
+			"answer": "You need the district, SRO details, document number, registration year, property type, owner details, and supporting documents like the Sale Deed."
+		},
+		{
+			"question": "How long does the Mutation process take?",
+			"answer": "Processing usually takes 7–15 working days, depending on record availability and verification requirements."
+		},
+		{
+			"question": "What documents will I receive after the mutation is completed?",
+			"answer": "You will receive the updated Mutation (Khata) Certificate showing the new owner’s details recorded in the official land/property records."
+		}
+	]
+}

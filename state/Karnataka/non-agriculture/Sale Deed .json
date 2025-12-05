@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Karnataka Sale Deed (Non-Agriculture)?",
+			"answer": "A Karnataka Sale Deed is a legal document that records the transfer of ownership for non-agricultural properties such as flats, plots, houses, or commercial spaces."
+		},
+		{
+			"question": "Why is the Sale Deed important?",
+			"answer": "It serves as the primary proof of ownership and is required for property registration, mutation, loans, resale, and all legal property-related processes."
+		},
+		{
+			"question": "What details are needed to obtain the Sale Deed copy?",
+			"answer": "You need the district, SRO office, document number, registration year, property address/description, and owner details."
+		},
+		{
+			"question": "How long does it take to get the Sale Deed copy?",
+			"answer": "If records exist digitally, it is available instantly; otherwise, it may take 1–2 working days depending on backend availability."
+		},
+		{
+			"question": "What will I receive in the Sale Deed document?",
+			"answer": "You will receive the full registered Sale Deed, including ownership details, property boundaries, terms of sale, consideration amount, and signatures of all parties."
+		}
+	]
+}

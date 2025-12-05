@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Kerala Property Audit Report (Non-Agriculture)?",
+			"answer": "A Kerala Property Audit Report is a detailed verification document that checks ownership, registration history, encumbrances, building details, and legal compliance of non-agricultural properties such as flats, houses, plots, and commercial units in Kerala."
+		},
+		{
+			"question": "Why is the Property Audit Report important?",
+			"answer": "It ensures the property has a clear title, no legal disputes, no unpaid liabilities, and all documents are valid—helping buyers, owners, and banks make safe decisions before purchase or loan processing."
+		},
+		{
+			"question": "What details are required to start the audit?",
+			"answer": "You need the district, Sub-Registrar Office (SRO), document number, registration year, property address, survey/resurvey number, and owner details."
+		},
+		{
+			"question": "How long does the audit process take?",
+			"answer": "The audit typically takes 24–48 hours, depending on the availability of records and depth of verification."
+		},
+		{
+			"question": "What will I receive in the final audit report?",
+			"answer": "You will receive a detailed report containing ownership verification, document checks, encumbrance status, tax records, building/property compliance checks, risk findings, and recommended next steps."
+		}
+	]
+}

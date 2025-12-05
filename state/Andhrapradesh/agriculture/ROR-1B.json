@@ -1,0 +1,25 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is the Andhra Pradesh ROR-1B (Agriculture)?",
+			"answer": "ROR-1B is an official land record document that contains essential details of an agricultural property, including ownership, cultivation type, liabilities, and land classification."
+		},
+		{
+			"question": "Why is the ROR-1B document important?",
+			"answer": "It serves as proof of ownership, helps in crop loans, subsidies, land disputes, and is required for various government and agricultural schemes."
+		},
+		{
+			"question": "What details are needed to get the ROR-1B?",
+			"answer": "You must provide the district, mandal, village, survey number, sub-division number (if any), and landowner details."
+		},
+		{
+			"question": "How long does it take to obtain the ROR-1B?",
+			"answer": "It is generally available instantly if records exist digitally; otherwise, it may take 1–2 working days depending on backend verification."
+		},
+		{
+			"question": "What information does the ROR-1B contain?",
+			"answer": "It includes owner name, survey details, land extent, type of cultivation, tenancy details, land classification, and any liabilities or encumbrances on the land."
+		}
+	]
+}

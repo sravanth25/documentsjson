@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Punjab Property Audit Report (Non-Agriculture)?",
+      "answer": "A detailed verification report that checks ownership, registration history, encumbrances, tax status, and legal risks for non-agricultural properties such as plots, houses, apartments, and commercial units in Punjab."
+    },
+    {
+      "question": "Why is the Property Audit Report important?",
+      "answer": "It helps confirm that the property has a clear title, no disputes, no missing documents, and no legal or financial risks—making purchases and loan approvals safer."
+    },
+    {
+      "question": "What details are required to start the audit?",
+      "answer": "You need the district/region, Sub-Registrar Office (SRO) or registration office, document number, year of registration, survey/plot number, property address, and owner details."
+    },
+    {
+      "question": "How long does the audit process take?",
+      "answer": "The audit usually takes 24–48 hours, depending on document availability and verification requirements."
+    },
+    {
+      "question": "What will I receive in the final audit report?",
+      "answer": "A comprehensive report covering ownership verification, registration document checks, encumbrance status, tax verification, legal risk findings, and recommended next steps."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a guideline value report?",
+      "answer": "A guideline value report provides government-assessed minimum property values used for stamp duty and registration calculations."
+    },
+    {
+      "question": "How is guideline value determined?",
+      "answer": "It is set by the state government considering location, land use, and market trends."
+    },
+    {
+      "question": "Where can I get the guideline value for my property?",
+      "answer": "Guideline values are available on the state revenue portal or the local sub-registrar office."
+    },
+    {
+      "question": "Does guideline value equal market value?",
+      "answer": "Not necessarily; guideline value is a floor for duty calculation, while market value can be higher or lower."
+    },
+    {
+      "question": "Can guideline values be challenged?",
+      "answer": "Values can be reviewed during registrations or through legal channels if a discrepancy exists."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Punjab Property Audit Report (Agriculture)?",
+      "answer": "A detailed verification report that examines ownership, land records, encumbrances, cultivation details, and legal status of agricultural land in Punjab."
+    },
+    {
+      "question": "Why is the Agricultural Property Audit Report important?",
+      "answer": "It helps ensure the land has clear title, no disputes, no unpaid liabilities, and correct land classification — important before buying, selling, inheriting, or applying for agricultural loans."
+    },
+    {
+      "question": "What details are required to start the audit?",
+      "answer": "You need the district, tehsil, village, survey/resurvey number, document number and year, landowner details, and property location information."
+    },
+    {
+      "question": "How long does the audit process take?",
+      "answer": "The audit typically takes 24–48 hours, depending on availability of land records and verification depth."
+    },
+    {
+      "question": "What will I receive in the final audit report?",
+      "answer": "A complete audit report including ownership verification, land record checks, encumbrance status, cultivation and land classification details, identified risks, and recommended next steps."
+    }
+  ]
+}

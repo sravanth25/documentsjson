@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Cadastral Map (Agriculture)?",
+      "answer": "A cadastral map is an official survey map showing precise boundaries, parcel identifiers, and measurements for agricultural land used for revenue and land management purposes."
+    },
+    {
+      "question": "Why is the Cadastral Map important?",
+      "answer": "It is essential for boundary confirmation, land registration, dispute resolution, land consolidation, surveys, and planning agricultural activities."
+    },
+    {
+      "question": "What details are needed to obtain a cadastral map?",
+      "answer": "You need the district, tehsil/taluk, village, survey/resurvey number, subdivision (if any), and owner/khata details."
+    },
+    {
+      "question": "How long does it take to get the cadastral map?",
+      "answer": "If digitized maps are available it can be accessed immediately; otherwise retrieval or a fresh survey may take a few days."
+    },
+    {
+      "question": "What information does a cadastral map contain?",
+      "answer": "It contains parcel boundaries, area measurements, adjoining parcel references, survey markers, and official parcel identifiers used by the revenue department."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Guideline Value Report?",
+      "answer": "It provides the government-assessed guideline or circle rate used to calculate stamp duty and registration charges for property transactions."
+    },
+    {
+      "question": "What details are needed to fetch guideline value?",
+      "answer": "You need district, locality/ward, property type, and area or plot details to retrieve the guideline value."
+    },
+    {
+      "question": "Is guideline value the same as market value?",
+      "answer": "No. Guideline value is a government benchmark for duty calculations; market value may be higher or lower depending on negotiations."
+    },
+    {
+      "question": "How often are guideline values updated?",
+      "answer": "States update guideline values periodically; frequency varies by state and policy changes."
+    },
+    {
+      "question": "Can I use guideline value for loan valuation?",
+      "answer": "Banks may refer to guideline values but usually conduct independent valuations for lending decisions."
+    }
+  ]
+}

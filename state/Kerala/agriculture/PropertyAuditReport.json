@@ -1,0 +1,24 @@
+{
+	"FAQ": [
+		{
+			"question": "What is a Kerala Property Audit Report (Agriculture)?",
+			"answer": "It is a detailed verification report that examines ownership, land records, encumbrances, cultivation details, and legal status of agricultural land in Kerala."
+		},
+		{
+			"question": "Why is the Agricultural Property Audit Report important?",
+			"answer": "It helps ensure the land has a clear title, no disputes, no restrictions, and no liabilities—important before buying, selling, inheriting, or applying for agricultural loans."
+		},
+		{
+			"question": "What details are required to start the audit?",
+			"answer": "You need the district, village, Taluk, resurvey/survey number, document number and year, landowner details, and property location information."
+		},
+		{
+			"question": "How long does the audit process take?",
+			"answer": "The audit usually takes 24–48 hours, depending on land record availability and verification requirements."
+		},
+		{
+			"question": "What will I receive in the final audit report?",
+			"answer": "You will receive a complete audit report including ownership verification, land record checks (like Thandaper details), encumbrance status, cultivation and land classification details, risk findings, and recommended actions."
+		}
+	]
+}

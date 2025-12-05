@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is Jamabandi (Non-Agriculture)?",
+      "answer": "Jamabandi is a revenue record adapted for land; for non-agricultural properties it documents ownership, plot details, and any recorded liabilities or revenue entries tied to the land."
+    },
+    {
+      "question": "Why is Jamabandi important for non-agricultural land?",
+      "answer": "It helps verify title, check recorded liabilities or encumbrances, and supports due diligence for sales, transfers, and loan processing."
+    },
+    {
+      "question": "What details are required to obtain Jamabandi for non-agricultural property?",
+      "answer": "Provide the district/region, registration office (if known), survey/plot number, ward (if applicable), and owner/property details."
+    },
+    {
+      "question": "How long does it take to get Jamabandi?",
+      "answer": "If digital records exist it is available instantly; otherwise it may take 1–2 working days depending on record access."
+    },
+    {
+      "question": "What information does Jamabandi contain for non-agricultural plots?",
+      "answer": "It typically includes owner name, plot/survey number, area, any recorded charges or liabilities, and references to related revenue or registration entries."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+
+{
+	"FAQ": [
+		{
+			"question": "What is a Property Audit Report?",
+			"answer": "A document that verifies non-agricultural property details in Tamil Nadu."
+		},
+		{
+			"question": "What does it contain?",
+			"answer": "Owner name, property type, building details, usage, encumbrances, and tax status."
+		},
+		{
+			"question": "Is it proof of ownership?",
+			"answer": "Yes, it confirms the registered owner."
+		},
+		{
+			"question": "Why is it needed?",
+			"answer": "For legal verification, bank loans, property sale, and compliance checks."
+		},
+		{
+			"question": "Does it show building violations?",
+			"answer": "Yes, it may show deviations or non-compliance with approved plans."
+		},
+		{
+			"question": "Where can you get it?",
+			"answer": "From municipal authorities or authorized online portals."
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a Cadastral Map (Non-Agriculture)?",
+      "answer": "A cadastral map is an authoritative map that shows exact parcel boundaries, plot numbers, and dimensions for non-agricultural properties such as residential and commercial plots."
+    },
+    {
+      "question": "Why is the Cadastral Map important for non-agricultural properties?",
+      "answer": "It is used for property registration, layout approvals, construction planning, resolving boundary disputes, and verifying plot dimensions for transactions and loans."
+    },
+    {
+      "question": "What details are needed to obtain a cadastral map?",
+      "answer": "Provide the district/region, taluk/ward, survey or plot number, sub-division (if any), and owner or property details."
+    },
+    {
+      "question": "How long does it take to get the cadastral map?",
+      "answer": "If available digitally it can be downloaded instantly; otherwise it may take 1–3 working days depending on the survey/revenue office workload."
+    },
+    {
+      "question": "What information does the cadastral map contain?",
+      "answer": "It includes plot boundaries, measurements, adjoining plots, plot identifiers (CTS/survey numbers), and survey reference marks used by surveyors and municipal authorities."
+    }
+  ]
+}
