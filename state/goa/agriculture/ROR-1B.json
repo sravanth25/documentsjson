@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is the Goa ROR-1B (Agriculture)?",
+      "answer": "The Goa ROR-1B (Agriculture) is an official agricultural land record containing details such as ownership, cultivation status, tenancy, and mutation entries."
+    },
+    {
+      "question": "Why is the Goa ROR-1B (Agriculture) important?",
+      "answer": "It serves as primary proof of ownership and cultivation rights, and is required for loans, subsidies, land transfer, and verification of agricultural land status."
+    },
+    {
+      "question": "What details are included in the Goa ROR-1B (Agriculture)?",
+      "answer": "It includes owner name, survey number, land type, cultivation information, tenant or occupant details, tax records, and mutation history."
+    },
+    {
+      "question": "Where can you obtain the Goa ROR-1B (Agriculture)?",
+      "answer": "It can be obtained from the Goa Revenue Department, Taluka offices, or through official online land record portals."
+    },
+    {
+      "question": "How is the Goa ROR-1B (Agriculture) used?",
+      "answer": "It is used for agricultural loans, land transactions, subsidies, crop insurance, inheritance cases, and legal verification of agricultural land rights."
+    }
+  ]
+}
