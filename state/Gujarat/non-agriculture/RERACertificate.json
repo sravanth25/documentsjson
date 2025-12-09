@@ -1,0 +1,24 @@
+{
+  "FAQ": [
+    {
+      "question": "What is a RERA Certificate for Non-Agricultural property?",
+      "answer": "A RERA Certificate is an official registration document issued under the Real Estate (Regulation and Development) Act confirming that a real estate project or agent is registered with the state RERA authority."
+    },
+    {
+      "question": "Why is a RERA Certificate important for Non-Agricultural properties?",
+      "answer": "It ensures that the project is legally approved, protects buyer interests, promotes transparency, and confirms that the builder or agent complies with real estate regulations."
+    },
+    {
+      "question": "What details are included in a Non-Agricultural RERA Certificate?",
+      "answer": "It includes the project or agent registration number, developer name, project location, validity period, approved plans reference, and the issuing RERA authority details."
+    },
+    {
+      "question": "Where can you obtain a RERA Certificate?",
+      "answer": "It can be obtained from the respective State RERA Authority’s official portal or office by searching the project or agent registration details."
+    },
+    {
+      "question": "How is a RERA Certificate used?",
+      "answer": "It is used by buyers to verify project authenticity, by banks for loan approvals, and by legal professionals for due diligence before property transactions."
+    }
+  ]
+}
